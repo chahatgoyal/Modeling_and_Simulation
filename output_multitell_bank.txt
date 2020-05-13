@@ -1,0 +1,5074 @@
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time6
+ server 1  is serving customer2
+waited time  0	transaction time4
+ server 2  is serving customer3
+waited time  0	transaction time5
+At time 1 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time25
+At time 2 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time27
+ server 5  is serving customer6
+waited time  0	transaction time4
+At time 3 4   customers come
+At time 4 0   customers come
+ server 1  is serving customer7
+waited time  2	transaction time18
+At time 5 3   customers come
+ server 2  is serving customer8
+waited time  2	transaction time26
+At time 6 0   customers come
+ server 0  is serving customer9
+waited time  3	transaction time5
+ server 5  is serving customer10
+waited time  3	transaction time7
+At time 7 2   customers come
+At time 8 0   customers come
+At time 9 1   customers come
+At time 10 4   customers come
+At time 11 0   customers come
+ server 0  is serving customer11
+waited time  8	transaction time29
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.1818
+Average Number of Servers:     6
+Average Total Wait Time: 2.86
+Customers in line at end of simulation: 10
+After simulation time : 
+server0is serving customer11
+server0has served 3customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer10
+server5has served 2customers
+At time 0 0   customers come
+At time 1 0   customers come
+At time 2 0   customers come
+At time 3 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time16
+At time 4 1   customers come
+ server 1  is serving customer2
+waited time  0	transaction time7
+At time 5 1   customers come
+ server 2  is serving customer3
+waited time  0	transaction time5
+At time 6 3   customers come
+ server 3  is serving customer4
+waited time  0	transaction time30
+ server 4  is serving customer5
+waited time  0	transaction time1
+ server 5  is serving customer6
+waited time  0	transaction time13
+At time 7 0   customers come
+At time 8 0   customers come
+At time 9 3   customers come
+ server 4  is serving customer7
+waited time  0	transaction time12
+At time 10 1   customers come
+ server 2  is serving customer8
+waited time  1	transaction time10
+At time 11 0   customers come
+ server 1  is serving customer9
+waited time  2	transaction time20
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      12.67
+Average Number of Servers:     6
+Average Total Wait Time: 0.50
+Customers in line at end of simulation: 1
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer9
+server1has served 2customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time21
+At time 1 4   customers come
+ server 1  is serving customer2
+waited time  0	transaction time25
+ server 2  is serving customer3
+waited time  0	transaction time5
+ server 3  is serving customer4
+waited time  0	transaction time20
+ server 4  is serving customer5
+waited time  0	transaction time1
+At time 2 0   customers come
+At time 3 1   customers come
+ server 4  is serving customer6
+waited time  0	transaction time29
+At time 4 2   customers come
+ server 5  is serving customer7
+waited time  0	transaction time15
+At time 5 4   customers come
+At time 6 4   customers come
+ server 2  is serving customer8
+waited time  2	transaction time30
+At time 7 2   customers come
+At time 8 2   customers come
+At time 9 2   customers come
+At time 10 3   customers come
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.25
+Average Number of Servers:     6
+Average Total Wait Time: 3.27
+Customers in line at end of simulation: 18
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer6
+server4has served 2customers
+server5is serving customer7
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time11
+ server 1  is serving customer2
+waited time  0	transaction time9
+ server 2  is serving customer3
+waited time  0	transaction time25
+At time 1 2   customers come
+ server 3  is serving customer4
+waited time  0	transaction time9
+ server 4  is serving customer5
+waited time  0	transaction time6
+At time 2 3   customers come
+ server 5  is serving customer6
+waited time  0	transaction time18
+At time 3 2   customers come
+At time 4 2   customers come
+At time 5 0   customers come
+At time 6 0   customers come
+At time 7 3   customers come
+ server 4  is serving customer7
+waited time  5	transaction time30
+At time 8 4   customers come
+At time 9 0   customers come
+ server 1  is serving customer8
+waited time  7	transaction time1
+At time 10 2   customers come
+ server 1  is serving customer9
+waited time  7	transaction time22
+ server 3  is serving customer10
+waited time  7	transaction time21
+At time 11 4   customers come
+ server 0  is serving customer11
+waited time  7	transaction time6
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.36
+Average Number of Servers:     6
+Average Total Wait Time: 3.20
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer11
+server0has served 2customers
+server1is serving customer9
+server1has served 3customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer10
+server3has served 2customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time11
+At time 1 2   customers come
+ server 1  is serving customer2
+waited time  0	transaction time24
+ server 2  is serving customer3
+waited time  0	transaction time26
+At time 2 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time12
+ server 4  is serving customer5
+waited time  0	transaction time14
+ server 5  is serving customer6
+waited time  0	transaction time16
+At time 3 1   customers come
+At time 4 3   customers come
+At time 5 4   customers come
+At time 6 0   customers come
+At time 7 1   customers come
+At time 8 1   customers come
+At time 9 3   customers come
+At time 10 1   customers come
+At time 11 3   customers come
+ server 0  is serving customer7
+waited time  9	transaction time9
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.00
+Average Number of Servers:     6
+Average Total Wait Time: 3.88
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time24
+At time 1 1   customers come
+ server 1  is serving customer2
+waited time  0	transaction time29
+At time 2 0   customers come
+At time 3 1   customers come
+ server 2  is serving customer3
+waited time  0	transaction time29
+At time 4 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time21
+ server 4  is serving customer5
+waited time  0	transaction time19
+ server 5  is serving customer6
+waited time  0	transaction time6
+At time 5 2   customers come
+At time 6 2   customers come
+At time 7 1   customers come
+At time 8 4   customers come
+At time 9 0   customers come
+At time 10 3   customers come
+ server 5  is serving customer7
+waited time  6	transaction time22
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      21.43
+Average Number of Servers:     6
+Average Total Wait Time: 2.74
+Customers in line at end of simulation: 16
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer7
+server5has served 2customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time7
+At time 1 2   customers come
+ server 1  is serving customer2
+waited time  0	transaction time30
+ server 2  is serving customer3
+waited time  0	transaction time8
+At time 2 3   customers come
+ server 3  is serving customer4
+waited time  0	transaction time13
+ server 4  is serving customer5
+waited time  0	transaction time6
+ server 5  is serving customer6
+waited time  0	transaction time7
+At time 3 3   customers come
+At time 4 0   customers come
+At time 5 4   customers come
+At time 6 2   customers come
+At time 7 1   customers come
+ server 0  is serving customer7
+waited time  4	transaction time24
+At time 8 0   customers come
+ server 4  is serving customer8
+waited time  5	transaction time19
+At time 9 4   customers come
+ server 2  is serving customer9
+waited time  6	transaction time9
+ server 5  is serving customer10
+waited time  4	transaction time8
+At time 10 1   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.10
+Average Number of Servers:     6
+Average Total Wait Time: 3.08
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer9
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer10
+server5has served 2customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time30
+ server 1  is serving customer2
+waited time  0	transaction time1
+At time 1 0   customers come
+At time 2 0   customers come
+At time 3 3   customers come
+ server 1  is serving customer3
+waited time  0	transaction time24
+ server 2  is serving customer4
+waited time  0	transaction time19
+ server 3  is serving customer5
+waited time  0	transaction time8
+At time 4 4   customers come
+ server 4  is serving customer6
+waited time  0	transaction time17
+ server 5  is serving customer7
+waited time  0	transaction time30
+At time 5 0   customers come
+At time 6 0   customers come
+At time 7 4   customers come
+At time 8 3   customers come
+At time 9 0   customers come
+At time 10 1   customers come
+At time 11 1   customers come
+ server 3  is serving customer8
+waited time  7	transaction time12
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.62
+Average Number of Servers:     6
+Average Total Wait Time: 2.78
+Customers in line at end of simulation: 10
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer3
+server1has served 2customers
+server2is serving customer4
+server2has served 1customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer6
+server4has served 1customers
+server5is serving customer7
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time9
+ server 1  is serving customer2
+waited time  0	transaction time10
+At time 1 0   customers come
+At time 2 0   customers come
+At time 3 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time3
+ server 3  is serving customer4
+waited time  0	transaction time19
+At time 4 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time6
+ server 5  is serving customer6
+waited time  0	transaction time30
+At time 5 3   customers come
+At time 6 4   customers come
+ server 2  is serving customer7
+waited time  2	transaction time22
+At time 7 4   customers come
+At time 8 2   customers come
+At time 9 4   customers come
+ server 0  is serving customer8
+waited time  5	transaction time15
+At time 10 2   customers come
+ server 1  is serving customer9
+waited time  5	transaction time19
+ server 4  is serving customer10
+waited time  5	transaction time25
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.80
+Average Number of Servers:     6
+Average Total Wait Time: 3.10
+Customers in line at end of simulation: 21
+After simulation time : 
+server0is serving customer8
+server0has served 2customers
+server1is serving customer9
+server1has served 2customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer10
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time15
+ server 1  is serving customer2
+waited time  0	transaction time15
+ server 2  is serving customer3
+waited time  0	transaction time30
+ server 3  is serving customer4
+waited time  0	transaction time28
+At time 2 2   customers come
+ server 4  is serving customer5
+waited time  0	transaction time27
+ server 5  is serving customer6
+waited time  0	transaction time1
+At time 3 0   customers come
+At time 4 1   customers come
+ server 5  is serving customer7
+waited time  0	transaction time10
+At time 5 2   customers come
+At time 6 2   customers come
+At time 7 1   customers come
+At time 8 1   customers come
+At time 9 2   customers come
+At time 10 2   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.00
+Average Number of Servers:     6
+Average Total Wait Time: 2.33
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer7
+server5has served 2customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time3
+ server 1  is serving customer2
+waited time  0	transaction time26
+ server 2  is serving customer3
+waited time  0	transaction time23
+At time 1 3   customers come
+ server 3  is serving customer4
+waited time  0	transaction time28
+ server 4  is serving customer5
+waited time  0	transaction time12
+ server 5  is serving customer6
+waited time  0	transaction time9
+At time 2 0   customers come
+At time 3 2   customers come
+ server 0  is serving customer7
+waited time  0	transaction time3
+At time 4 1   customers come
+At time 5 2   customers come
+At time 6 3   customers come
+ server 0  is serving customer8
+waited time  3	transaction time16
+At time 7 1   customers come
+At time 8 3   customers come
+At time 9 4   customers come
+At time 10 4   customers come
+ server 5  is serving customer9
+waited time  6	transaction time7
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.11
+Average Number of Servers:     6
+Average Total Wait Time: 2.73
+Customers in line at end of simulation: 21
+After simulation time : 
+server0is serving customer8
+server0has served 3customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer9
+server5has served 2customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time25
+At time 1 3   customers come
+ server 1  is serving customer2
+waited time  0	transaction time1
+ server 2  is serving customer3
+waited time  0	transaction time2
+ server 3  is serving customer4
+waited time  0	transaction time12
+At time 2 4   customers come
+ server 1  is serving customer5
+waited time  0	transaction time12
+ server 4  is serving customer6
+waited time  0	transaction time6
+ server 5  is serving customer7
+waited time  0	transaction time24
+At time 3 1   customers come
+ server 2  is serving customer8
+waited time  1	transaction time9
+At time 4 3   customers come
+At time 5 3   customers come
+At time 6 1   customers come
+At time 7 3   customers come
+At time 8 2   customers come
+ server 4  is serving customer9
+waited time  5	transaction time2
+At time 9 3   customers come
+At time 10 4   customers come
+ server 4  is serving customer10
+waited time  6	transaction time4
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      9.70
+Average Number of Servers:     6
+Average Total Wait Time: 3.31
+Customers in line at end of simulation: 19
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer5
+server1has served 2customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer10
+server4has served 3customers
+server5is serving customer7
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time15
+At time 1 3   customers come
+ server 1  is serving customer2
+waited time  0	transaction time18
+ server 2  is serving customer3
+waited time  0	transaction time3
+ server 3  is serving customer4
+waited time  0	transaction time24
+At time 2 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time1
+ server 5  is serving customer6
+waited time  0	transaction time28
+At time 3 1   customers come
+ server 4  is serving customer7
+waited time  1	transaction time25
+At time 4 3   customers come
+ server 2  is serving customer8
+waited time  1	transaction time8
+At time 5 3   customers come
+At time 6 4   customers come
+At time 7 1   customers come
+At time 8 4   customers come
+At time 9 2   customers come
+At time 10 4   customers come
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.25
+Average Number of Servers:     6
+Average Total Wait Time: 3.66
+Customers in line at end of simulation: 21
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time5
+ server 1  is serving customer2
+waited time  0	transaction time7
+At time 1 0   customers come
+At time 2 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time14
+ server 3  is serving customer4
+waited time  0	transaction time8
+At time 3 2   customers come
+ server 4  is serving customer5
+waited time  0	transaction time13
+ server 5  is serving customer6
+waited time  0	transaction time3
+At time 4 3   customers come
+At time 5 3   customers come
+ server 0  is serving customer7
+waited time  1	transaction time17
+At time 6 2   customers come
+ server 5  is serving customer8
+waited time  2	transaction time23
+At time 7 0   customers come
+ server 1  is serving customer9
+waited time  3	transaction time16
+At time 8 3   customers come
+At time 9 0   customers come
+At time 10 4   customers come
+ server 3  is serving customer10
+waited time  5	transaction time5
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      11.10
+Average Number of Servers:     6
+Average Total Wait Time: 2.71
+Customers in line at end of simulation: 11
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer9
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer10
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 2customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time12
+ server 1  is serving customer2
+waited time  0	transaction time24
+At time 1 4   customers come
+ server 2  is serving customer3
+waited time  0	transaction time5
+ server 3  is serving customer4
+waited time  0	transaction time15
+ server 4  is serving customer5
+waited time  0	transaction time27
+ server 5  is serving customer6
+waited time  0	transaction time21
+At time 2 1   customers come
+At time 3 0   customers come
+At time 4 0   customers come
+At time 5 2   customers come
+At time 6 0   customers come
+ server 2  is serving customer7
+waited time  4	transaction time8
+At time 7 0   customers come
+At time 8 4   customers come
+At time 9 0   customers come
+At time 10 4   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.00
+Average Number of Servers:     6
+Average Total Wait Time: 2.32
+Customers in line at end of simulation: 12
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time24
+ server 1  is serving customer2
+waited time  0	transaction time18
+At time 2 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time5
+ server 3  is serving customer4
+waited time  0	transaction time25
+At time 3 0   customers come
+At time 4 1   customers come
+ server 4  is serving customer5
+waited time  0	transaction time30
+At time 5 4   customers come
+ server 5  is serving customer6
+waited time  0	transaction time4
+At time 6 3   customers come
+At time 7 3   customers come
+ server 2  is serving customer7
+waited time  2	transaction time27
+At time 8 2   customers come
+At time 9 2   customers come
+ server 5  is serving customer8
+waited time  4	transaction time3
+At time 10 0   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.00
+Average Number of Servers:     6
+Average Total Wait Time: 2.86
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 2customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time23
+ server 1  is serving customer2
+waited time  0	transaction time26
+ server 2  is serving customer3
+waited time  0	transaction time4
+ server 3  is serving customer4
+waited time  0	transaction time29
+At time 1 2   customers come
+ server 4  is serving customer5
+waited time  0	transaction time2
+ server 5  is serving customer6
+waited time  0	transaction time3
+At time 2 4   customers come
+At time 3 0   customers come
+ server 4  is serving customer7
+waited time  1	transaction time2
+At time 4 0   customers come
+ server 2  is serving customer8
+waited time  2	transaction time26
+ server 5  is serving customer9
+waited time  2	transaction time26
+At time 5 4   customers come
+ server 4  is serving customer10
+waited time  3	transaction time3
+At time 6 1   customers come
+At time 7 4   customers come
+At time 8 4   customers come
+ server 4  is serving customer11
+waited time  3	transaction time20
+At time 9 0   customers come
+At time 10 3   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.91
+Average Number of Servers:     6
+Average Total Wait Time: 2.86
+Customers in line at end of simulation: 18
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer11
+server4has served 4customers
+server5is serving customer9
+server5has served 2customers
+At time 0 0   customers come
+At time 1 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time12
+ server 1  is serving customer2
+waited time  0	transaction time19
+ server 2  is serving customer3
+waited time  0	transaction time2
+At time 2 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time11
+ server 4  is serving customer5
+waited time  0	transaction time2
+ server 5  is serving customer6
+waited time  0	transaction time26
+At time 3 3   customers come
+ server 2  is serving customer7
+waited time  1	transaction time27
+At time 4 3   customers come
+ server 4  is serving customer8
+waited time  1	transaction time24
+At time 5 3   customers come
+At time 6 1   customers come
+At time 7 2   customers come
+At time 8 0   customers come
+At time 9 2   customers come
+At time 10 4   customers come
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.38
+Average Number of Servers:     6
+Average Total Wait Time: 3.80
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time7
+ server 1  is serving customer2
+waited time  0	transaction time27
+ server 2  is serving customer3
+waited time  0	transaction time14
+ server 3  is serving customer4
+waited time  0	transaction time28
+At time 1 2   customers come
+ server 4  is serving customer5
+waited time  0	transaction time13
+ server 5  is serving customer6
+waited time  0	transaction time17
+At time 2 2   customers come
+At time 3 2   customers come
+At time 4 1   customers come
+At time 5 3   customers come
+At time 6 1   customers come
+At time 7 3   customers come
+ server 0  is serving customer7
+waited time  5	transaction time14
+At time 8 4   customers come
+At time 9 2   customers come
+At time 10 0   customers come
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.14
+Average Number of Servers:     6
+Average Total Wait Time: 4.38
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time19
+ server 1  is serving customer2
+waited time  0	transaction time17
+At time 1 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time12
+ server 3  is serving customer4
+waited time  0	transaction time7
+At time 2 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time22
+ server 5  is serving customer6
+waited time  0	transaction time22
+At time 3 3   customers come
+At time 4 0   customers come
+At time 5 3   customers come
+At time 6 2   customers come
+At time 7 1   customers come
+At time 8 0   customers come
+ server 3  is serving customer7
+waited time  6	transaction time23
+At time 9 0   customers come
+At time 10 2   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.43
+Average Number of Servers:     6
+Average Total Wait Time: 3.87
+Customers in line at end of simulation: 16
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer7
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time18
+ server 1  is serving customer2
+waited time  0	transaction time9
+ server 2  is serving customer3
+waited time  0	transaction time16
+At time 1 2   customers come
+ server 3  is serving customer4
+waited time  0	transaction time27
+ server 4  is serving customer5
+waited time  0	transaction time29
+At time 2 0   customers come
+At time 3 0   customers come
+At time 4 2   customers come
+ server 5  is serving customer6
+waited time  0	transaction time11
+At time 5 0   customers come
+At time 6 1   customers come
+At time 7 1   customers come
+At time 8 1   customers come
+At time 9 3   customers come
+ server 1  is serving customer7
+waited time  5	transaction time25
+At time 10 3   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      19.29
+Average Number of Servers:     6
+Average Total Wait Time: 1.95
+Customers in line at end of simulation: 13
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time8
+ server 1  is serving customer2
+waited time  0	transaction time26
+ server 2  is serving customer3
+waited time  0	transaction time1
+ server 3  is serving customer4
+waited time  0	transaction time17
+At time 2 1   customers come
+ server 2  is serving customer5
+waited time  0	transaction time16
+At time 3 0   customers come
+At time 4 3   customers come
+ server 4  is serving customer6
+waited time  0	transaction time5
+ server 5  is serving customer7
+waited time  0	transaction time27
+At time 5 2   customers come
+At time 6 1   customers come
+At time 7 0   customers come
+At time 8 4   customers come
+At time 9 3   customers come
+ server 0  is serving customer8
+waited time  5	transaction time2
+ server 4  is serving customer9
+waited time  4	transaction time28
+At time 10 0   customers come
+At time 11 2   customers come
+ server 0  is serving customer10
+waited time  6	transaction time7
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.70
+Average Number of Servers:     6
+Average Total Wait Time: 2.40
+Customers in line at end of simulation: 10
+After simulation time : 
+server0is serving customer10
+server0has served 3customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer5
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer9
+server4has served 2customers
+server5is serving customer7
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time23
+ server 1  is serving customer2
+waited time  0	transaction time8
+ server 2  is serving customer3
+waited time  0	transaction time15
+At time 1 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time21
+At time 2 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time5
+ server 5  is serving customer6
+waited time  0	transaction time23
+At time 3 4   customers come
+At time 4 0   customers come
+At time 5 1   customers come
+At time 6 1   customers come
+At time 7 2   customers come
+ server 4  is serving customer7
+waited time  5	transaction time9
+At time 8 0   customers come
+ server 1  is serving customer8
+waited time  5	transaction time23
+At time 9 0   customers come
+At time 10 3   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.88
+Average Number of Servers:     6
+Average Total Wait Time: 3.18
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer8
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time16
+ server 1  is serving customer2
+waited time  0	transaction time3
+At time 1 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time15
+ server 3  is serving customer4
+waited time  0	transaction time29
+At time 2 0   customers come
+At time 3 3   customers come
+ server 1  is serving customer5
+waited time  0	transaction time19
+ server 4  is serving customer6
+waited time  0	transaction time13
+ server 5  is serving customer7
+waited time  0	transaction time10
+At time 4 1   customers come
+At time 5 2   customers come
+At time 6 3   customers come
+At time 7 0   customers come
+At time 8 0   customers come
+At time 9 4   customers come
+At time 10 1   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.00
+Average Number of Servers:     6
+Average Total Wait Time: 2.64
+Customers in line at end of simulation: 15
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer5
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer6
+server4has served 1customers
+server5is serving customer7
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time21
+ server 1  is serving customer2
+waited time  0	transaction time7
+ server 2  is serving customer3
+waited time  0	transaction time5
+At time 1 3   customers come
+ server 3  is serving customer4
+waited time  0	transaction time15
+ server 4  is serving customer5
+waited time  0	transaction time5
+ server 5  is serving customer6
+waited time  0	transaction time9
+At time 2 3   customers come
+At time 3 0   customers come
+At time 4 2   customers come
+At time 5 4   customers come
+ server 2  is serving customer7
+waited time  3	transaction time3
+At time 6 4   customers come
+ server 4  is serving customer8
+waited time  4	transaction time13
+At time 7 4   customers come
+ server 1  is serving customer9
+waited time  5	transaction time17
+At time 8 0   customers come
+ server 2  is serving customer10
+waited time  4	transaction time22
+At time 9 4   customers come
+At time 10 0   customers come
+ server 5  is serving customer11
+waited time  6	transaction time27
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.09
+Average Number of Servers:     6
+Average Total Wait Time: 3.82
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer9
+server1has served 2customers
+server2is serving customer10
+server2has served 3customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer11
+server5has served 2customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time24
+ server 1  is serving customer2
+waited time  0	transaction time30
+At time 1 4   customers come
+ server 2  is serving customer3
+waited time  0	transaction time19
+ server 3  is serving customer4
+waited time  0	transaction time21
+ server 4  is serving customer5
+waited time  0	transaction time8
+ server 5  is serving customer6
+waited time  0	transaction time10
+At time 2 0   customers come
+At time 3 2   customers come
+At time 4 2   customers come
+At time 5 0   customers come
+At time 6 1   customers come
+At time 7 3   customers come
+At time 8 4   customers come
+At time 9 4   customers come
+ server 4  is serving customer7
+waited time  6	transaction time13
+At time 10 4   customers come
+At time 11 3   customers come
+ server 5  is serving customer8
+waited time  8	transaction time22
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.38
+Average Number of Servers:     6
+Average Total Wait Time: 3.10
+Customers in line at end of simulation: 21
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer8
+server5has served 2customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time4
+At time 1 0   customers come
+At time 2 2   customers come
+ server 1  is serving customer2
+waited time  0	transaction time20
+ server 2  is serving customer3
+waited time  0	transaction time6
+At time 3 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time1
+ server 4  is serving customer5
+waited time  0	transaction time27
+ server 5  is serving customer6
+waited time  0	transaction time18
+At time 4 3   customers come
+ server 0  is serving customer7
+waited time  1	transaction time21
+ server 3  is serving customer8
+waited time  0	transaction time11
+At time 5 0   customers come
+At time 6 1   customers come
+At time 7 0   customers come
+At time 8 2   customers come
+ server 2  is serving customer9
+waited time  4	transaction time10
+At time 9 1   customers come
+At time 10 3   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.11
+Average Number of Servers:     6
+Average Total Wait Time: 1.95
+Customers in line at end of simulation: 11
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer9
+server2has served 2customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time14
+ server 1  is serving customer2
+waited time  0	transaction time12
+ server 2  is serving customer3
+waited time  0	transaction time13
+At time 1 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time4
+ server 4  is serving customer5
+waited time  0	transaction time17
+ server 5  is serving customer6
+waited time  0	transaction time20
+At time 2 1   customers come
+At time 3 4   customers come
+At time 4 2   customers come
+At time 5 4   customers come
+ server 3  is serving customer7
+waited time  4	transaction time26
+At time 6 2   customers come
+At time 7 0   customers come
+At time 8 0   customers come
+At time 9 3   customers come
+At time 10 3   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.14
+Average Number of Servers:     6
+Average Total Wait Time: 4.28
+Customers in line at end of simulation: 22
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer7
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time1
+At time 2 2   customers come
+ server 0  is serving customer2
+waited time  0	transaction time14
+ server 1  is serving customer3
+waited time  0	transaction time3
+At time 3 2   customers come
+ server 2  is serving customer4
+waited time  0	transaction time24
+ server 3  is serving customer5
+waited time  0	transaction time12
+At time 4 0   customers come
+At time 5 1   customers come
+ server 1  is serving customer6
+waited time  0	transaction time2
+At time 6 3   customers come
+ server 4  is serving customer7
+waited time  0	transaction time12
+ server 5  is serving customer8
+waited time  0	transaction time14
+At time 7 2   customers come
+ server 1  is serving customer9
+waited time  1	transaction time21
+At time 8 1   customers come
+At time 9 3   customers come
+At time 10 1   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      11.44
+Average Number of Servers:     6
+Average Total Wait Time: 1.56
+Customers in line at end of simulation: 9
+After simulation time : 
+server0is serving customer2
+server0has served 2customers
+server1is serving customer9
+server1has served 3customers
+server2is serving customer4
+server2has served 1customers
+server3is serving customer5
+server3has served 1customers
+server4is serving customer7
+server4has served 1customers
+server5is serving customer8
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time17
+ server 1  is serving customer2
+waited time  0	transaction time5
+ server 2  is serving customer3
+waited time  0	transaction time19
+At time 1 3   customers come
+ server 3  is serving customer4
+waited time  0	transaction time7
+ server 4  is serving customer5
+waited time  0	transaction time11
+ server 5  is serving customer6
+waited time  0	transaction time14
+At time 2 4   customers come
+At time 3 1   customers come
+At time 4 3   customers come
+At time 5 3   customers come
+ server 1  is serving customer7
+waited time  3	transaction time22
+At time 6 0   customers come
+At time 7 3   customers come
+At time 8 0   customers come
+ server 3  is serving customer8
+waited time  6	transaction time30
+At time 9 1   customers come
+At time 10 3   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.62
+Average Number of Servers:     6
+Average Total Wait Time: 3.96
+Customers in line at end of simulation: 20
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time21
+ server 1  is serving customer2
+waited time  0	transaction time30
+ server 2  is serving customer3
+waited time  0	transaction time26
+ server 3  is serving customer4
+waited time  0	transaction time4
+At time 1 2   customers come
+ server 4  is serving customer5
+waited time  0	transaction time9
+ server 5  is serving customer6
+waited time  0	transaction time20
+At time 2 2   customers come
+At time 3 4   customers come
+At time 4 3   customers come
+ server 3  is serving customer7
+waited time  2	transaction time16
+At time 5 0   customers come
+At time 6 4   customers come
+At time 7 0   customers come
+At time 8 0   customers come
+At time 9 1   customers come
+At time 10 3   customers come
+ server 4  is serving customer8
+waited time  8	transaction time9
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.88
+Average Number of Servers:     6
+Average Total Wait Time: 4.20
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer7
+server3has served 2customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time22
+At time 1 2   customers come
+ server 1  is serving customer2
+waited time  0	transaction time25
+ server 2  is serving customer3
+waited time  0	transaction time29
+At time 2 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time11
+At time 3 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time10
+ server 5  is serving customer6
+waited time  0	transaction time29
+At time 4 3   customers come
+At time 5 4   customers come
+At time 6 3   customers come
+At time 7 3   customers come
+At time 8 4   customers come
+At time 9 1   customers come
+At time 10 2   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      21.00
+Average Number of Servers:     6
+Average Total Wait Time: 4.06
+Customers in line at end of simulation: 26
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time30
+ server 1  is serving customer2
+waited time  0	transaction time27
+ server 2  is serving customer3
+waited time  0	transaction time23
+ server 3  is serving customer4
+waited time  0	transaction time17
+At time 2 0   customers come
+At time 3 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time5
+ server 5  is serving customer6
+waited time  0	transaction time12
+At time 4 4   customers come
+At time 5 2   customers come
+At time 6 1   customers come
+At time 7 0   customers come
+At time 8 1   customers come
+ server 4  is serving customer7
+waited time  5	transaction time9
+At time 9 0   customers come
+At time 10 1   customers come
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.57
+Average Number of Servers:     6
+Average Total Wait Time: 4.06
+Customers in line at end of simulation: 11
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time7
+ server 1  is serving customer2
+waited time  0	transaction time12
+At time 1 0   customers come
+At time 2 1   customers come
+ server 2  is serving customer3
+waited time  0	transaction time6
+At time 3 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time7
+ server 4  is serving customer5
+waited time  0	transaction time17
+ server 5  is serving customer6
+waited time  0	transaction time8
+At time 4 3   customers come
+At time 5 3   customers come
+At time 6 0   customers come
+At time 7 0   customers come
+ server 0  is serving customer7
+waited time  4	transaction time20
+At time 8 1   customers come
+ server 2  is serving customer8
+waited time  4	transaction time20
+At time 9 0   customers come
+At time 10 1   customers come
+ server 3  is serving customer9
+waited time  6	transaction time29
+At time 11 1   customers come
+ server 5  is serving customer10
+waited time  7	transaction time26
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.20
+Average Number of Servers:     6
+Average Total Wait Time: 3.06
+Customers in line at end of simulation: 6
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer9
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer10
+server5has served 2customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time7
+ server 1  is serving customer2
+waited time  0	transaction time27
+ server 2  is serving customer3
+waited time  0	transaction time1
+At time 1 4   customers come
+ server 2  is serving customer4
+waited time  0	transaction time27
+ server 3  is serving customer5
+waited time  0	transaction time28
+ server 4  is serving customer6
+waited time  0	transaction time11
+ server 5  is serving customer7
+waited time  0	transaction time29
+At time 2 4   customers come
+At time 3 3   customers come
+At time 4 1   customers come
+At time 5 0   customers come
+At time 6 0   customers come
+At time 7 3   customers come
+ server 0  is serving customer8
+waited time  5	transaction time27
+At time 8 1   customers come
+At time 9 1   customers come
+At time 10 3   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      19.62
+Average Number of Servers:     6
+Average Total Wait Time: 4.00
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer8
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer4
+server2has served 2customers
+server3is serving customer5
+server3has served 1customers
+server4is serving customer6
+server4has served 1customers
+server5is serving customer7
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time14
+ server 1  is serving customer2
+waited time  0	transaction time3
+ server 2  is serving customer3
+waited time  0	transaction time24
+ server 3  is serving customer4
+waited time  0	transaction time12
+At time 1 1   customers come
+ server 4  is serving customer5
+waited time  0	transaction time22
+At time 2 3   customers come
+ server 5  is serving customer6
+waited time  0	transaction time12
+At time 3 2   customers come
+ server 1  is serving customer7
+waited time  1	transaction time21
+At time 4 1   customers come
+At time 5 3   customers come
+At time 6 1   customers come
+At time 7 4   customers come
+At time 8 4   customers come
+At time 9 4   customers come
+At time 10 1   customers come
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.43
+Average Number of Servers:     6
+Average Total Wait Time: 4.07
+Customers in line at end of simulation: 21
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time19
+ server 1  is serving customer2
+waited time  0	transaction time4
+ server 2  is serving customer3
+waited time  0	transaction time26
+ server 3  is serving customer4
+waited time  0	transaction time21
+At time 1 0   customers come
+At time 2 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time17
+ server 5  is serving customer6
+waited time  0	transaction time25
+At time 3 2   customers come
+At time 4 1   customers come
+ server 1  is serving customer7
+waited time  2	transaction time22
+At time 5 1   customers come
+At time 6 2   customers come
+At time 7 0   customers come
+At time 8 0   customers come
+At time 9 3   customers come
+At time 10 3   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      19.14
+Average Number of Servers:     6
+Average Total Wait Time: 2.95
+Customers in line at end of simulation: 15
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time2
+ server 1  is serving customer2
+waited time  0	transaction time26
+ server 2  is serving customer3
+waited time  0	transaction time14
+At time 1 0   customers come
+At time 2 1   customers come
+ server 0  is serving customer4
+waited time  0	transaction time22
+At time 3 4   customers come
+ server 3  is serving customer5
+waited time  0	transaction time1
+ server 4  is serving customer6
+waited time  0	transaction time27
+ server 5  is serving customer7
+waited time  0	transaction time3
+At time 4 2   customers come
+ server 3  is serving customer8
+waited time  1	transaction time21
+At time 5 0   customers come
+At time 6 3   customers come
+ server 5  is serving customer9
+waited time  2	transaction time9
+At time 7 0   customers come
+At time 8 3   customers come
+At time 9 3   customers come
+At time 10 3   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.89
+Average Number of Servers:     6
+Average Total Wait Time: 2.31
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer4
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer6
+server4has served 1customers
+server5is serving customer9
+server5has served 2customers
+At time 0 0   customers come
+At time 1 0   customers come
+At time 2 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time5
+ server 1  is serving customer2
+waited time  0	transaction time10
+At time 3 4   customers come
+ server 2  is serving customer3
+waited time  0	transaction time25
+ server 3  is serving customer4
+waited time  0	transaction time8
+ server 4  is serving customer5
+waited time  0	transaction time13
+ server 5  is serving customer6
+waited time  0	transaction time20
+At time 4 3   customers come
+At time 5 1   customers come
+At time 6 1   customers come
+At time 7 1   customers come
+ server 0  is serving customer7
+waited time  3	transaction time2
+At time 8 4   customers come
+At time 9 0   customers come
+ server 0  is serving customer8
+waited time  5	transaction time21
+At time 10 0   customers come
+At time 11 3   customers come
+ server 3  is serving customer9
+waited time  7	transaction time23
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.11
+Average Number of Servers:     6
+Average Total Wait Time: 2.74
+Customers in line at end of simulation: 10
+After simulation time : 
+server0is serving customer8
+server0has served 3customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer9
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time21
+ server 1  is serving customer2
+waited time  0	transaction time14
+ server 2  is serving customer3
+waited time  0	transaction time8
+ server 3  is serving customer4
+waited time  0	transaction time29
+At time 1 0   customers come
+At time 2 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time23
+ server 5  is serving customer6
+waited time  0	transaction time5
+At time 3 2   customers come
+At time 4 4   customers come
+At time 5 1   customers come
+At time 6 0   customers come
+At time 7 3   customers come
+ server 5  is serving customer7
+waited time  5	transaction time6
+At time 8 4   customers come
+ server 2  is serving customer8
+waited time  5	transaction time20
+At time 9 4   customers come
+At time 10 4   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.75
+Average Number of Servers:     6
+Average Total Wait Time: 3.50
+Customers in line at end of simulation: 24
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer7
+server5has served 2customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time28
+ server 1  is serving customer2
+waited time  0	transaction time16
+At time 1 1   customers come
+ server 2  is serving customer3
+waited time  0	transaction time29
+At time 2 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time17
+ server 4  is serving customer5
+waited time  0	transaction time11
+ server 5  is serving customer6
+waited time  0	transaction time7
+At time 3 4   customers come
+At time 4 2   customers come
+At time 5 3   customers come
+At time 6 4   customers come
+At time 7 2   customers come
+At time 8 0   customers come
+At time 9 3   customers come
+ server 5  is serving customer7
+waited time  7	transaction time16
+At time 10 0   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.71
+Average Number of Servers:     6
+Average Total Wait Time: 4.63
+Customers in line at end of simulation: 20
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer7
+server5has served 2customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time26
+ server 1  is serving customer2
+waited time  0	transaction time19
+ server 2  is serving customer3
+waited time  0	transaction time8
+ server 3  is serving customer4
+waited time  0	transaction time6
+At time 1 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time5
+ server 5  is serving customer6
+waited time  0	transaction time22
+At time 2 3   customers come
+At time 3 0   customers come
+At time 4 2   customers come
+At time 5 4   customers come
+At time 6 3   customers come
+ server 3  is serving customer7
+waited time  5	transaction time10
+ server 4  is serving customer8
+waited time  5	transaction time12
+At time 7 4   customers come
+At time 8 2   customers come
+ server 2  is serving customer9
+waited time  6	transaction time3
+At time 9 2   customers come
+At time 10 2   customers come
+At time 11 1   customers come
+ server 2  is serving customer10
+waited time  9	transaction time27
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.80
+Average Number of Servers:     6
+Average Total Wait Time: 4.39
+Customers in line at end of simulation: 21
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer10
+server2has served 3customers
+server3is serving customer7
+server3has served 2customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time25
+ server 1  is serving customer2
+waited time  0	transaction time3
+At time 1 1   customers come
+ server 2  is serving customer3
+waited time  0	transaction time17
+At time 2 2   customers come
+ server 3  is serving customer4
+waited time  0	transaction time27
+ server 4  is serving customer5
+waited time  0	transaction time18
+At time 3 1   customers come
+ server 1  is serving customer6
+waited time  0	transaction time8
+At time 4 4   customers come
+ server 5  is serving customer7
+waited time  0	transaction time16
+At time 5 1   customers come
+At time 6 4   customers come
+At time 7 4   customers come
+At time 8 0   customers come
+At time 9 2   customers come
+At time 10 4   customers come
+At time 11 1   customers come
+ server 1  is serving customer8
+waited time  7	transaction time28
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.75
+Average Number of Servers:     6
+Average Total Wait Time: 3.42
+Customers in line at end of simulation: 18
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer8
+server1has served 3customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer7
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time2
+ server 1  is serving customer2
+waited time  0	transaction time7
+ server 2  is serving customer3
+waited time  0	transaction time2
+At time 1 2   customers come
+ server 3  is serving customer4
+waited time  0	transaction time7
+ server 4  is serving customer5
+waited time  0	transaction time5
+At time 2 4   customers come
+ server 0  is serving customer6
+waited time  0	transaction time16
+ server 2  is serving customer7
+waited time  0	transaction time28
+ server 5  is serving customer8
+waited time  0	transaction time8
+At time 3 4   customers come
+At time 4 1   customers come
+At time 5 4   customers come
+At time 6 1   customers come
+ server 4  is serving customer9
+waited time  4	transaction time30
+At time 7 2   customers come
+ server 1  is serving customer10
+waited time  4	transaction time28
+At time 8 3   customers come
+ server 3  is serving customer11
+waited time  5	transaction time14
+At time 9 2   customers come
+At time 10 2   customers come
+ server 5  is serving customer12
+waited time  7	transaction time21
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.00
+Average Number of Servers:     6
+Average Total Wait Time: 3.42
+Customers in line at end of simulation: 19
+After simulation time : 
+server0is serving customer6
+server0has served 2customers
+server1is serving customer10
+server1has served 2customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer11
+server3has served 2customers
+server4is serving customer9
+server4has served 2customers
+server5is serving customer12
+server5has served 2customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time20
+ server 1  is serving customer2
+waited time  0	transaction time15
+ server 2  is serving customer3
+waited time  0	transaction time7
+At time 1 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time18
+At time 2 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time5
+ server 5  is serving customer6
+waited time  0	transaction time11
+At time 3 1   customers come
+At time 4 3   customers come
+At time 5 2   customers come
+At time 6 4   customers come
+At time 7 2   customers come
+ server 2  is serving customer7
+waited time  5	transaction time9
+ server 4  is serving customer8
+waited time  4	transaction time16
+At time 8 1   customers come
+At time 9 0   customers come
+At time 10 4   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      12.62
+Average Number of Servers:     6
+Average Total Wait Time: 3.65
+Customers in line at end of simulation: 18
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time28
+At time 1 1   customers come
+ server 1  is serving customer2
+waited time  0	transaction time4
+At time 2 0   customers come
+At time 3 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time10
+ server 3  is serving customer4
+waited time  0	transaction time15
+At time 4 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time22
+ server 5  is serving customer6
+waited time  0	transaction time18
+At time 5 3   customers come
+ server 1  is serving customer7
+waited time  1	transaction time4
+At time 6 3   customers come
+At time 7 1   customers come
+At time 8 4   customers come
+At time 9 2   customers come
+ server 1  is serving customer8
+waited time  5	transaction time10
+At time 10 0   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.88
+Average Number of Servers:     6
+Average Total Wait Time: 3.22
+Customers in line at end of simulation: 15
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer8
+server1has served 3customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time4
+ server 1  is serving customer2
+waited time  0	transaction time10
+At time 1 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time28
+ server 3  is serving customer4
+waited time  0	transaction time18
+At time 2 2   customers come
+ server 4  is serving customer5
+waited time  0	transaction time19
+ server 5  is serving customer6
+waited time  0	transaction time25
+At time 3 3   customers come
+At time 4 2   customers come
+ server 0  is serving customer7
+waited time  1	transaction time12
+At time 5 1   customers come
+At time 6 1   customers come
+At time 7 1   customers come
+At time 8 3   customers come
+At time 9 3   customers come
+At time 10 2   customers come
+ server 1  is serving customer8
+waited time  7	transaction time13
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.12
+Average Number of Servers:     6
+Average Total Wait Time: 3.25
+Customers in line at end of simulation: 16
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer8
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time22
+ server 1  is serving customer2
+waited time  0	transaction time11
+ server 2  is serving customer3
+waited time  0	transaction time3
+ server 3  is serving customer4
+waited time  0	transaction time8
+At time 1 1   customers come
+ server 4  is serving customer5
+waited time  0	transaction time12
+At time 2 4   customers come
+ server 5  is serving customer6
+waited time  0	transaction time18
+At time 3 3   customers come
+ server 2  is serving customer7
+waited time  1	transaction time23
+At time 4 2   customers come
+At time 5 2   customers come
+At time 6 3   customers come
+At time 7 4   customers come
+At time 8 4   customers come
+ server 3  is serving customer8
+waited time  6	transaction time4
+At time 9 3   customers come
+At time 10 0   customers come
+At time 11 4   customers come
+ server 1  is serving customer9
+waited time  9	transaction time29
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.44
+Average Number of Servers:     6
+Average Total Wait Time: 4.12
+Customers in line at end of simulation: 25
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer9
+server1has served 2customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time1
+ server 1  is serving customer2
+waited time  0	transaction time2
+At time 1 3   customers come
+ server 0  is serving customer3
+waited time  0	transaction time30
+ server 2  is serving customer4
+waited time  0	transaction time30
+ server 3  is serving customer5
+waited time  0	transaction time17
+At time 2 3   customers come
+ server 1  is serving customer6
+waited time  0	transaction time4
+ server 4  is serving customer7
+waited time  0	transaction time12
+ server 5  is serving customer8
+waited time  0	transaction time28
+At time 3 2   customers come
+At time 4 1   customers come
+At time 5 1   customers come
+At time 6 4   customers come
+ server 1  is serving customer9
+waited time  3	transaction time1
+At time 7 4   customers come
+ server 1  is serving customer10
+waited time  4	transaction time26
+At time 8 4   customers come
+At time 9 3   customers come
+At time 10 4   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.10
+Average Number of Servers:     6
+Average Total Wait Time: 3.00
+Customers in line at end of simulation: 24
+After simulation time : 
+server0is serving customer3
+server0has served 2customers
+server1is serving customer10
+server1has served 4customers
+server2is serving customer4
+server2has served 1customers
+server3is serving customer5
+server3has served 1customers
+server4is serving customer7
+server4has served 1customers
+server5is serving customer8
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time4
+ server 1  is serving customer2
+waited time  0	transaction time28
+At time 1 1   customers come
+ server 2  is serving customer3
+waited time  0	transaction time29
+At time 2 2   customers come
+ server 3  is serving customer4
+waited time  0	transaction time7
+ server 4  is serving customer5
+waited time  0	transaction time18
+At time 3 1   customers come
+ server 5  is serving customer6
+waited time  0	transaction time12
+At time 4 0   customers come
+At time 5 2   customers come
+ server 0  is serving customer7
+waited time  0	transaction time20
+At time 6 1   customers come
+At time 7 4   customers come
+At time 8 1   customers come
+At time 9 4   customers come
+ server 3  is serving customer8
+waited time  4	transaction time30
+At time 10 4   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.50
+Average Number of Servers:     6
+Average Total Wait Time: 2.23
+Customers in line at end of simulation: 18
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time1
+At time 1 2   customers come
+ server 0  is serving customer2
+waited time  0	transaction time11
+ server 1  is serving customer3
+waited time  0	transaction time23
+At time 2 2   customers come
+ server 2  is serving customer4
+waited time  0	transaction time29
+ server 3  is serving customer5
+waited time  0	transaction time25
+At time 3 2   customers come
+ server 4  is serving customer6
+waited time  0	transaction time8
+ server 5  is serving customer7
+waited time  0	transaction time8
+At time 4 4   customers come
+At time 5 2   customers come
+At time 6 2   customers come
+At time 7 2   customers come
+At time 8 0   customers come
+At time 9 4   customers come
+At time 10 1   customers come
+At time 11 0   customers come
+ server 4  is serving customer8
+waited time  7	transaction time13
+ server 5  is serving customer9
+waited time  7	transaction time18
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.11
+Average Number of Servers:     6
+Average Total Wait Time: 3.64
+Customers in line at end of simulation: 13
+After simulation time : 
+server0is serving customer2
+server0has served 2customers
+server1is serving customer3
+server1has served 1customers
+server2is serving customer4
+server2has served 1customers
+server3is serving customer5
+server3has served 1customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer9
+server5has served 2customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time18
+ server 1  is serving customer2
+waited time  0	transaction time29
+At time 1 3   customers come
+ server 2  is serving customer3
+waited time  0	transaction time14
+ server 3  is serving customer4
+waited time  0	transaction time27
+ server 4  is serving customer5
+waited time  0	transaction time5
+At time 2 2   customers come
+ server 5  is serving customer6
+waited time  0	transaction time6
+At time 3 0   customers come
+At time 4 4   customers come
+At time 5 3   customers come
+At time 6 3   customers come
+ server 4  is serving customer7
+waited time  4	transaction time2
+At time 7 0   customers come
+At time 8 2   customers come
+ server 4  is serving customer8
+waited time  4	transaction time30
+ server 5  is serving customer9
+waited time  4	transaction time7
+At time 9 4   customers come
+At time 10 2   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.33
+Average Number of Servers:     6
+Average Total Wait Time: 3.28
+Customers in line at end of simulation: 20
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer8
+server4has served 3customers
+server5is serving customer9
+server5has served 2customers
+At time 0 0   customers come
+At time 1 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time12
+ server 1  is serving customer2
+waited time  0	transaction time20
+ server 2  is serving customer3
+waited time  0	transaction time3
+ server 3  is serving customer4
+waited time  0	transaction time13
+At time 2 2   customers come
+ server 4  is serving customer5
+waited time  0	transaction time5
+ server 5  is serving customer6
+waited time  0	transaction time18
+At time 3 4   customers come
+At time 4 1   customers come
+ server 2  is serving customer7
+waited time  1	transaction time5
+At time 5 3   customers come
+At time 6 1   customers come
+At time 7 4   customers come
+ server 4  is serving customer8
+waited time  4	transaction time30
+At time 8 0   customers come
+At time 9 1   customers come
+ server 2  is serving customer9
+waited time  6	transaction time28
+At time 10 1   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.89
+Average Number of Servers:     6
+Average Total Wait Time: 3.57
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer9
+server2has served 3customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time15
+ server 1  is serving customer2
+waited time  0	transaction time16
+ server 2  is serving customer3
+waited time  0	transaction time29
+ server 3  is serving customer4
+waited time  0	transaction time6
+At time 2 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time20
+ server 5  is serving customer6
+waited time  0	transaction time5
+At time 3 3   customers come
+At time 4 1   customers come
+At time 5 1   customers come
+At time 6 1   customers come
+At time 7 0   customers come
+ server 3  is serving customer7
+waited time  5	transaction time1
+ server 5  is serving customer8
+waited time  5	transaction time6
+At time 8 3   customers come
+ server 3  is serving customer9
+waited time  5	transaction time5
+At time 9 2   customers come
+At time 10 4   customers come
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      11.44
+Average Number of Servers:     6
+Average Total Wait Time: 3.48
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer9
+server3has served 3customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 2customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time30
+ server 1  is serving customer2
+waited time  0	transaction time4
+ server 2  is serving customer3
+waited time  0	transaction time28
+At time 1 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time29
+At time 2 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time19
+ server 5  is serving customer6
+waited time  0	transaction time2
+At time 3 3   customers come
+At time 4 3   customers come
+ server 1  is serving customer7
+waited time  2	transaction time23
+ server 5  is serving customer8
+waited time  2	transaction time30
+At time 5 0   customers come
+At time 6 0   customers come
+At time 7 0   customers come
+At time 8 4   customers come
+At time 9 4   customers come
+At time 10 1   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      20.62
+Average Number of Servers:     6
+Average Total Wait Time: 3.48
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 2customers
+At time 0 0   customers come
+At time 1 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time26
+ server 1  is serving customer2
+waited time  0	transaction time24
+ server 2  is serving customer3
+waited time  0	transaction time30
+ server 3  is serving customer4
+waited time  0	transaction time2
+At time 2 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time26
+ server 5  is serving customer6
+waited time  0	transaction time16
+At time 3 2   customers come
+ server 3  is serving customer7
+waited time  1	transaction time8
+At time 4 4   customers come
+At time 5 2   customers come
+At time 6 0   customers come
+At time 7 3   customers come
+At time 8 3   customers come
+At time 9 1   customers come
+At time 10 4   customers come
+At time 11 1   customers come
+ server 3  is serving customer8
+waited time  8	transaction time3
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.88
+Average Number of Servers:     6
+Average Total Wait Time: 3.81
+Customers in line at end of simulation: 19
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer8
+server3has served 3customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time20
+ server 1  is serving customer2
+waited time  0	transaction time18
+ server 2  is serving customer3
+waited time  0	transaction time28
+At time 1 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time8
+ server 4  is serving customer5
+waited time  0	transaction time3
+ server 5  is serving customer6
+waited time  0	transaction time7
+At time 2 4   customers come
+At time 3 1   customers come
+At time 4 0   customers come
+ server 4  is serving customer7
+waited time  3	transaction time12
+At time 5 0   customers come
+At time 6 1   customers come
+At time 7 1   customers come
+At time 8 2   customers come
+ server 5  is serving customer8
+waited time  6	transaction time20
+At time 9 4   customers come
+ server 3  is serving customer9
+waited time  7	transaction time5
+At time 10 4   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.44
+Average Number of Servers:     6
+Average Total Wait Time: 3.31
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer9
+server3has served 2customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer8
+server5has served 2customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time1
+ server 1  is serving customer2
+waited time  0	transaction time15
+At time 1 2   customers come
+ server 0  is serving customer3
+waited time  0	transaction time25
+ server 2  is serving customer4
+waited time  0	transaction time25
+At time 2 0   customers come
+At time 3 3   customers come
+ server 3  is serving customer5
+waited time  0	transaction time1
+ server 4  is serving customer6
+waited time  0	transaction time19
+ server 5  is serving customer7
+waited time  0	transaction time27
+At time 4 1   customers come
+ server 3  is serving customer8
+waited time  0	transaction time6
+At time 5 1   customers come
+At time 6 2   customers come
+At time 7 4   customers come
+At time 8 3   customers come
+At time 9 3   customers come
+At time 10 0   customers come
+ server 3  is serving customer9
+waited time  5	transaction time7
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.00
+Average Number of Servers:     6
+Average Total Wait Time: 2.48
+Customers in line at end of simulation: 16
+After simulation time : 
+server0is serving customer3
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer4
+server2has served 1customers
+server3is serving customer9
+server3has served 3customers
+server4is serving customer6
+server4has served 1customers
+server5is serving customer7
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time25
+ server 1  is serving customer2
+waited time  0	transaction time16
+At time 1 3   customers come
+ server 2  is serving customer3
+waited time  0	transaction time4
+ server 3  is serving customer4
+waited time  0	transaction time27
+ server 4  is serving customer5
+waited time  0	transaction time26
+At time 2 2   customers come
+ server 5  is serving customer6
+waited time  0	transaction time23
+At time 3 2   customers come
+At time 4 4   customers come
+At time 5 3   customers come
+ server 2  is serving customer7
+waited time  3	transaction time19
+At time 6 4   customers come
+At time 7 4   customers come
+At time 8 2   customers come
+At time 9 4   customers come
+At time 10 4   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      20.00
+Average Number of Servers:     6
+Average Total Wait Time: 4.11
+Customers in line at end of simulation: 29
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time19
+ server 1  is serving customer2
+waited time  0	transaction time16
+ server 2  is serving customer3
+waited time  0	transaction time5
+ server 3  is serving customer4
+waited time  0	transaction time5
+At time 1 2   customers come
+ server 4  is serving customer5
+waited time  0	transaction time2
+ server 5  is serving customer6
+waited time  0	transaction time15
+At time 2 1   customers come
+At time 3 1   customers come
+ server 4  is serving customer7
+waited time  1	transaction time22
+At time 4 0   customers come
+At time 5 0   customers come
+ server 2  is serving customer8
+waited time  2	transaction time8
+At time 6 2   customers come
+ server 3  is serving customer9
+waited time  0	transaction time22
+At time 7 0   customers come
+At time 8 3   customers come
+At time 9 1   customers come
+At time 10 2   customers come
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      12.67
+Average Number of Servers:     6
+Average Total Wait Time: 1.67
+Customers in line at end of simulation: 9
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer9
+server3has served 2customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time30
+ server 1  is serving customer2
+waited time  0	transaction time16
+ server 2  is serving customer3
+waited time  0	transaction time17
+At time 1 3   customers come
+ server 3  is serving customer4
+waited time  0	transaction time17
+ server 4  is serving customer5
+waited time  0	transaction time21
+ server 5  is serving customer6
+waited time  0	transaction time15
+At time 2 1   customers come
+At time 3 4   customers come
+At time 4 4   customers come
+At time 5 1   customers come
+At time 6 4   customers come
+At time 7 0   customers come
+At time 8 0   customers come
+At time 9 1   customers come
+At time 10 1   customers come
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      19.33
+Average Number of Servers:     6
+Average Total Wait Time: 5.00
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time11
+ server 1  is serving customer2
+waited time  0	transaction time20
+ server 2  is serving customer3
+waited time  0	transaction time12
+ server 3  is serving customer4
+waited time  0	transaction time26
+At time 1 1   customers come
+ server 4  is serving customer5
+waited time  0	transaction time24
+At time 2 3   customers come
+ server 5  is serving customer6
+waited time  0	transaction time29
+At time 3 3   customers come
+At time 4 4   customers come
+At time 5 3   customers come
+At time 6 1   customers come
+At time 7 4   customers come
+At time 8 2   customers come
+At time 9 3   customers come
+At time 10 2   customers come
+At time 11 2   customers come
+ server 0  is serving customer7
+waited time  9	transaction time11
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      19.00
+Average Number of Servers:     6
+Average Total Wait Time: 4.62
+Customers in line at end of simulation: 25
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time17
+ server 1  is serving customer2
+waited time  0	transaction time19
+At time 1 3   customers come
+ server 2  is serving customer3
+waited time  0	transaction time23
+ server 3  is serving customer4
+waited time  0	transaction time7
+ server 4  is serving customer5
+waited time  0	transaction time8
+At time 2 3   customers come
+ server 5  is serving customer6
+waited time  0	transaction time29
+At time 3 1   customers come
+At time 4 1   customers come
+At time 5 4   customers come
+At time 6 2   customers come
+At time 7 3   customers come
+At time 8 4   customers come
+ server 3  is serving customer7
+waited time  6	transaction time25
+At time 9 1   customers come
+ server 4  is serving customer8
+waited time  7	transaction time13
+At time 10 2   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.62
+Average Number of Servers:     6
+Average Total Wait Time: 3.73
+Customers in line at end of simulation: 22
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer7
+server3has served 2customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time4
+At time 1 1   customers come
+ server 1  is serving customer2
+waited time  0	transaction time20
+At time 2 4   customers come
+ server 2  is serving customer3
+waited time  0	transaction time6
+ server 3  is serving customer4
+waited time  0	transaction time19
+ server 4  is serving customer5
+waited time  0	transaction time5
+ server 5  is serving customer6
+waited time  0	transaction time21
+At time 3 0   customers come
+At time 4 4   customers come
+ server 0  is serving customer7
+waited time  0	transaction time25
+At time 5 3   customers come
+At time 6 4   customers come
+At time 7 3   customers come
+ server 4  is serving customer8
+waited time  3	transaction time22
+At time 8 0   customers come
+ server 2  is serving customer9
+waited time  4	transaction time1
+At time 9 1   customers come
+ server 2  is serving customer10
+waited time  5	transaction time29
+At time 10 3   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.20
+Average Number of Servers:     6
+Average Total Wait Time: 3.04
+Customers in line at end of simulation: 18
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer10
+server2has served 3customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time16
+At time 2 4   customers come
+ server 1  is serving customer2
+waited time  0	transaction time6
+ server 2  is serving customer3
+waited time  0	transaction time12
+ server 3  is serving customer4
+waited time  0	transaction time24
+ server 4  is serving customer5
+waited time  0	transaction time15
+At time 3 2   customers come
+ server 5  is serving customer6
+waited time  0	transaction time5
+At time 4 2   customers come
+At time 5 3   customers come
+At time 6 0   customers come
+At time 7 3   customers come
+At time 8 1   customers come
+ server 1  is serving customer7
+waited time  5	transaction time4
+ server 5  is serving customer8
+waited time  4	transaction time4
+At time 9 1   customers come
+At time 10 0   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      10.75
+Average Number of Servers:     6
+Average Total Wait Time: 3.05
+Customers in line at end of simulation: 13
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 2customers
+At time 0 0   customers come
+At time 1 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time5
+ server 1  is serving customer2
+waited time  0	transaction time4
+ server 2  is serving customer3
+waited time  0	transaction time28
+ server 3  is serving customer4
+waited time  0	transaction time27
+At time 2 1   customers come
+ server 4  is serving customer5
+waited time  0	transaction time6
+At time 3 2   customers come
+ server 5  is serving customer6
+waited time  0	transaction time25
+At time 4 1   customers come
+At time 5 2   customers come
+ server 1  is serving customer7
+waited time  2	transaction time28
+At time 6 1   customers come
+ server 0  is serving customer8
+waited time  2	transaction time24
+At time 7 2   customers come
+At time 8 4   customers come
+ server 4  is serving customer9
+waited time  3	transaction time17
+At time 9 4   customers come
+At time 10 2   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.22
+Average Number of Servers:     6
+Average Total Wait Time: 2.50
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer8
+server0has served 2customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer9
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time6
+At time 1 3   customers come
+ server 1  is serving customer2
+waited time  0	transaction time26
+ server 2  is serving customer3
+waited time  0	transaction time24
+ server 3  is serving customer4
+waited time  0	transaction time25
+At time 2 0   customers come
+At time 3 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time10
+ server 5  is serving customer6
+waited time  0	transaction time30
+At time 4 2   customers come
+At time 5 0   customers come
+At time 6 3   customers come
+ server 0  is serving customer7
+waited time  3	transaction time8
+At time 7 4   customers come
+At time 8 2   customers come
+At time 9 0   customers come
+At time 10 1   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.43
+Average Number of Servers:     6
+Average Total Wait Time: 3.33
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time22
+ server 1  is serving customer2
+waited time  0	transaction time10
+ server 2  is serving customer3
+waited time  0	transaction time2
+At time 2 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time13
+At time 3 1   customers come
+ server 2  is serving customer5
+waited time  0	transaction time23
+At time 4 3   customers come
+ server 4  is serving customer6
+waited time  0	transaction time9
+ server 5  is serving customer7
+waited time  0	transaction time28
+At time 5 4   customers come
+At time 6 0   customers come
+At time 7 1   customers come
+At time 8 1   customers come
+At time 9 4   customers come
+At time 10 2   customers come
+At time 11 1   customers come
+ server 1  is serving customer8
+waited time  7	transaction time1
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.50
+Average Number of Servers:     6
+Average Total Wait Time: 2.90
+Customers in line at end of simulation: 13
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer8
+server1has served 2customers
+server2is serving customer5
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer6
+server4has served 1customers
+server5is serving customer7
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time17
+At time 1 4   customers come
+ server 1  is serving customer2
+waited time  0	transaction time30
+ server 2  is serving customer3
+waited time  0	transaction time12
+ server 3  is serving customer4
+waited time  0	transaction time13
+ server 4  is serving customer5
+waited time  0	transaction time4
+At time 2 3   customers come
+ server 5  is serving customer6
+waited time  0	transaction time8
+At time 3 2   customers come
+At time 4 2   customers come
+At time 5 4   customers come
+ server 4  is serving customer7
+waited time  3	transaction time11
+At time 6 0   customers come
+At time 7 4   customers come
+At time 8 3   customers come
+At time 9 1   customers come
+At time 10 3   customers come
+ server 5  is serving customer8
+waited time  8	transaction time5
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      12.50
+Average Number of Servers:     6
+Average Total Wait Time: 4.11
+Customers in line at end of simulation: 20
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer8
+server5has served 2customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time5
+At time 1 3   customers come
+ server 1  is serving customer2
+waited time  0	transaction time18
+ server 2  is serving customer3
+waited time  0	transaction time3
+ server 3  is serving customer4
+waited time  0	transaction time2
+At time 2 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time24
+ server 5  is serving customer6
+waited time  0	transaction time14
+At time 3 2   customers come
+ server 3  is serving customer7
+waited time  1	transaction time24
+At time 4 2   customers come
+ server 2  is serving customer8
+waited time  2	transaction time9
+At time 5 0   customers come
+ server 0  is serving customer9
+waited time  2	transaction time27
+At time 6 0   customers come
+At time 7 2   customers come
+At time 8 4   customers come
+At time 9 3   customers come
+At time 10 1   customers come
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.00
+Average Number of Servers:     6
+Average Total Wait Time: 2.96
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer9
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer7
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time14
+ server 1  is serving customer2
+waited time  0	transaction time29
+ server 2  is serving customer3
+waited time  0	transaction time24
+At time 1 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time25
+ server 4  is serving customer5
+waited time  0	transaction time18
+ server 5  is serving customer6
+waited time  0	transaction time8
+At time 2 0   customers come
+At time 3 0   customers come
+At time 4 0   customers come
+At time 5 0   customers come
+At time 6 3   customers come
+At time 7 4   customers come
+At time 8 4   customers come
+At time 9 2   customers come
+ server 5  is serving customer7
+waited time  8	transaction time1
+At time 10 2   customers come
+ server 5  is serving customer8
+waited time  4	transaction time16
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.88
+Average Number of Servers:     6
+Average Total Wait Time: 2.92
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 3customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time5
+ server 1  is serving customer2
+waited time  0	transaction time2
+At time 1 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time1
+ server 3  is serving customer4
+waited time  0	transaction time14
+At time 2 4   customers come
+ server 1  is serving customer5
+waited time  0	transaction time23
+ server 2  is serving customer6
+waited time  0	transaction time30
+ server 4  is serving customer7
+waited time  0	transaction time14
+ server 5  is serving customer8
+waited time  0	transaction time11
+At time 3 2   customers come
+At time 4 1   customers come
+At time 5 1   customers come
+ server 0  is serving customer9
+waited time  2	transaction time13
+At time 6 0   customers come
+At time 7 0   customers come
+At time 8 1   customers come
+At time 9 4   customers come
+At time 10 0   customers come
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      12.56
+Average Number of Servers:     6
+Average Total Wait Time: 2.39
+Customers in line at end of simulation: 9
+After simulation time : 
+server0is serving customer9
+server0has served 2customers
+server1is serving customer5
+server1has served 2customers
+server2is serving customer6
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 1customers
+server5is serving customer8
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time3
+At time 1 2   customers come
+ server 1  is serving customer2
+waited time  0	transaction time23
+ server 2  is serving customer3
+waited time  0	transaction time22
+At time 2 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time24
+At time 3 0   customers come
+At time 4 3   customers come
+ server 0  is serving customer5
+waited time  0	transaction time17
+ server 4  is serving customer6
+waited time  0	transaction time24
+ server 5  is serving customer7
+waited time  0	transaction time24
+At time 5 4   customers come
+At time 6 0   customers come
+At time 7 3   customers come
+At time 8 0   customers come
+At time 9 2   customers come
+At time 10 0   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      19.57
+Average Number of Servers:     6
+Average Total Wait Time: 2.65
+Customers in line at end of simulation: 13
+After simulation time : 
+server0is serving customer5
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer6
+server4has served 1customers
+server5is serving customer7
+server5has served 1customers
+At time 0 0   customers come
+At time 1 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time4
+ server 1  is serving customer2
+waited time  0	transaction time24
+ server 2  is serving customer3
+waited time  0	transaction time20
+At time 2 2   customers come
+ server 3  is serving customer4
+waited time  0	transaction time16
+ server 4  is serving customer5
+waited time  0	transaction time15
+At time 3 4   customers come
+ server 5  is serving customer6
+waited time  0	transaction time7
+At time 4 1   customers come
+At time 5 2   customers come
+ server 0  is serving customer7
+waited time  2	transaction time5
+At time 6 4   customers come
+At time 7 4   customers come
+At time 8 1   customers come
+At time 9 2   customers come
+At time 10 2   customers come
+ server 0  is serving customer8
+waited time  7	transaction time20
+ server 5  is serving customer9
+waited time  7	transaction time4
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      12.78
+Average Number of Servers:     6
+Average Total Wait Time: 3.73
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer8
+server0has served 3customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer9
+server5has served 2customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time27
+ server 1  is serving customer2
+waited time  0	transaction time10
+At time 1 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time7
+ server 3  is serving customer4
+waited time  0	transaction time3
+At time 2 2   customers come
+ server 4  is serving customer5
+waited time  0	transaction time21
+ server 5  is serving customer6
+waited time  0	transaction time11
+At time 3 3   customers come
+At time 4 2   customers come
+ server 3  is serving customer7
+waited time  1	transaction time29
+At time 5 1   customers come
+At time 6 0   customers come
+At time 7 2   customers come
+At time 8 3   customers come
+ server 2  is serving customer8
+waited time  5	transaction time18
+At time 9 3   customers come
+At time 10 4   customers come
+ server 1  is serving customer9
+waited time  7	transaction time24
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.67
+Average Number of Servers:     6
+Average Total Wait Time: 2.82
+Customers in line at end of simulation: 19
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer9
+server1has served 2customers
+server2is serving customer8
+server2has served 2customers
+server3is serving customer7
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time20
+ server 1  is serving customer2
+waited time  0	transaction time1
+At time 1 3   customers come
+ server 1  is serving customer3
+waited time  0	transaction time17
+ server 2  is serving customer4
+waited time  0	transaction time9
+ server 3  is serving customer5
+waited time  0	transaction time22
+At time 2 2   customers come
+ server 4  is serving customer6
+waited time  0	transaction time4
+ server 5  is serving customer7
+waited time  0	transaction time8
+At time 3 0   customers come
+At time 4 4   customers come
+At time 5 1   customers come
+At time 6 4   customers come
+ server 4  is serving customer8
+waited time  2	transaction time28
+At time 7 0   customers come
+At time 8 1   customers come
+At time 9 3   customers come
+At time 10 2   customers come
+ server 2  is serving customer9
+waited time  6	transaction time15
+ server 5  is serving customer10
+waited time  6	transaction time28
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.20
+Average Number of Servers:     6
+Average Total Wait Time: 3.18
+Customers in line at end of simulation: 12
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer3
+server1has served 2customers
+server2is serving customer9
+server2has served 2customers
+server3is serving customer5
+server3has served 1customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer10
+server5has served 2customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time9
+ server 1  is serving customer2
+waited time  0	transaction time20
+At time 1 0   customers come
+At time 2 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time5
+ server 3  is serving customer4
+waited time  0	transaction time8
+At time 3 1   customers come
+ server 4  is serving customer5
+waited time  0	transaction time12
+At time 4 4   customers come
+ server 5  is serving customer6
+waited time  0	transaction time23
+At time 5 1   customers come
+At time 6 2   customers come
+At time 7 3   customers come
+ server 2  is serving customer7
+waited time  3	transaction time12
+At time 8 0   customers come
+At time 9 1   customers come
+ server 0  is serving customer8
+waited time  5	transaction time7
+At time 10 4   customers come
+ server 3  is serving customer9
+waited time  6	transaction time24
+At time 11 2   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.33
+Average Number of Servers:     6
+Average Total Wait Time: 2.77
+Customers in line at end of simulation: 13
+After simulation time : 
+server0is serving customer8
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer9
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time26
+ server 1  is serving customer2
+waited time  0	transaction time9
+At time 2 3   customers come
+ server 2  is serving customer3
+waited time  0	transaction time6
+ server 3  is serving customer4
+waited time  0	transaction time21
+ server 4  is serving customer5
+waited time  0	transaction time10
+At time 3 2   customers come
+ server 5  is serving customer6
+waited time  0	transaction time24
+At time 4 1   customers come
+At time 5 2   customers come
+At time 6 4   customers come
+At time 7 3   customers come
+At time 8 0   customers come
+ server 2  is serving customer7
+waited time  5	transaction time10
+At time 9 0   customers come
+At time 10 3   customers come
+ server 1  is serving customer8
+waited time  6	transaction time21
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.88
+Average Number of Servers:     6
+Average Total Wait Time: 3.38
+Customers in line at end of simulation: 13
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer8
+server1has served 2customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time7
+ server 1  is serving customer2
+waited time  0	transaction time17
+ server 2  is serving customer3
+waited time  0	transaction time28
+At time 2 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time15
+At time 3 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time17
+ server 5  is serving customer6
+waited time  0	transaction time8
+At time 4 3   customers come
+At time 5 3   customers come
+At time 6 4   customers come
+At time 7 0   customers come
+At time 8 3   customers come
+ server 0  is serving customer7
+waited time  5	transaction time20
+At time 9 0   customers come
+At time 10 4   customers come
+At time 11 0   customers come
+ server 5  is serving customer8
+waited time  7	transaction time10
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.25
+Average Number of Servers:     6
+Average Total Wait Time: 3.88
+Customers in line at end of simulation: 16
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 2customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time29
+ server 1  is serving customer2
+waited time  0	transaction time5
+At time 1 1   customers come
+ server 2  is serving customer3
+waited time  0	transaction time14
+At time 2 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time3
+At time 3 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time10
+ server 5  is serving customer6
+waited time  0	transaction time23
+At time 4 2   customers come
+At time 5 1   customers come
+ server 1  is serving customer7
+waited time  2	transaction time9
+ server 3  is serving customer8
+waited time  2	transaction time19
+At time 6 2   customers come
+At time 7 2   customers come
+At time 8 2   customers come
+At time 9 1   customers come
+At time 10 0   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.00
+Average Number of Servers:     6
+Average Total Wait Time: 3.00
+Customers in line at end of simulation: 13
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time24
+ server 1  is serving customer2
+waited time  0	transaction time29
+ server 2  is serving customer3
+waited time  0	transaction time10
+At time 1 3   customers come
+ server 3  is serving customer4
+waited time  0	transaction time13
+ server 4  is serving customer5
+waited time  0	transaction time21
+ server 5  is serving customer6
+waited time  0	transaction time11
+At time 2 3   customers come
+At time 3 0   customers come
+At time 4 2   customers come
+At time 5 2   customers come
+At time 6 3   customers come
+At time 7 3   customers come
+At time 8 3   customers come
+At time 9 4   customers come
+At time 10 4   customers come
+ server 2  is serving customer7
+waited time  8	transaction time24
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.86
+Average Number of Servers:     6
+Average Total Wait Time: 4.10
+Customers in line at end of simulation: 23
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time3
+ server 1  is serving customer2
+waited time  0	transaction time12
+At time 2 0   customers come
+At time 3 1   customers come
+ server 2  is serving customer3
+waited time  0	transaction time7
+At time 4 2   customers come
+ server 0  is serving customer4
+waited time  0	transaction time21
+ server 3  is serving customer5
+waited time  0	transaction time23
+At time 5 0   customers come
+At time 6 3   customers come
+ server 4  is serving customer6
+waited time  0	transaction time9
+ server 5  is serving customer7
+waited time  0	transaction time21
+At time 7 3   customers come
+At time 8 2   customers come
+At time 9 1   customers come
+At time 10 0   customers come
+ server 2  is serving customer8
+waited time  4	transaction time1
+At time 11 3   customers come
+ server 2  is serving customer9
+waited time  4	transaction time24
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.44
+Average Number of Servers:     6
+Average Total Wait Time: 1.88
+Customers in line at end of simulation: 8
+After simulation time : 
+server0is serving customer4
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer9
+server2has served 3customers
+server3is serving customer5
+server3has served 1customers
+server4is serving customer6
+server4has served 1customers
+server5is serving customer7
+server5has served 1customers
+At time 0 0   customers come
+At time 1 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time21
+ server 1  is serving customer2
+waited time  0	transaction time12
+At time 2 0   customers come
+At time 3 1   customers come
+ server 2  is serving customer3
+waited time  0	transaction time26
+At time 4 1   customers come
+ server 3  is serving customer4
+waited time  0	transaction time27
+At time 5 0   customers come
+At time 6 1   customers come
+ server 4  is serving customer5
+waited time  0	transaction time4
+At time 7 2   customers come
+ server 5  is serving customer6
+waited time  0	transaction time16
+At time 8 4   customers come
+At time 9 0   customers come
+At time 10 1   customers come
+ server 4  is serving customer7
+waited time  3	transaction time24
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.57
+Average Number of Servers:     6
+Average Total Wait Time: 1.75
+Customers in line at end of simulation: 5
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 0   customers come
+At time 2 0   customers come
+At time 3 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time12
+ server 1  is serving customer2
+waited time  0	transaction time22
+ server 2  is serving customer3
+waited time  0	transaction time24
+At time 4 4   customers come
+ server 3  is serving customer4
+waited time  0	transaction time7
+ server 4  is serving customer5
+waited time  0	transaction time24
+ server 5  is serving customer6
+waited time  0	transaction time8
+At time 5 2   customers come
+At time 6 0   customers come
+At time 7 0   customers come
+At time 8 4   customers come
+At time 9 1   customers come
+At time 10 0   customers come
+At time 11 2   customers come
+ server 3  is serving customer7
+waited time  7	transaction time24
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.29
+Average Number of Servers:     6
+Average Total Wait Time: 2.62
+Customers in line at end of simulation: 9
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer7
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time4
+ server 1  is serving customer2
+waited time  0	transaction time9
+ server 2  is serving customer3
+waited time  0	transaction time21
+ server 3  is serving customer4
+waited time  0	transaction time8
+At time 1 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time28
+ server 5  is serving customer6
+waited time  0	transaction time19
+At time 2 0   customers come
+At time 3 3   customers come
+At time 4 3   customers come
+ server 0  is serving customer7
+waited time  3	transaction time24
+At time 5 4   customers come
+At time 6 4   customers come
+At time 7 0   customers come
+At time 8 4   customers come
+ server 3  is serving customer8
+waited time  5	transaction time28
+At time 9 1   customers come
+ server 1  is serving customer9
+waited time  6	transaction time23
+At time 10 1   customers come
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.22
+Average Number of Servers:     6
+Average Total Wait Time: 4.44
+Customers in line at end of simulation: 18
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer9
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time24
+ server 1  is serving customer2
+waited time  0	transaction time15
+At time 1 3   customers come
+ server 2  is serving customer3
+waited time  0	transaction time16
+ server 3  is serving customer4
+waited time  0	transaction time19
+ server 4  is serving customer5
+waited time  0	transaction time10
+At time 2 3   customers come
+ server 5  is serving customer6
+waited time  0	transaction time19
+At time 3 0   customers come
+At time 4 2   customers come
+At time 5 1   customers come
+At time 6 0   customers come
+At time 7 4   customers come
+At time 8 0   customers come
+At time 9 3   customers come
+At time 10 2   customers come
+At time 11 3   customers come
+ server 4  is serving customer7
+waited time  9	transaction time17
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.14
+Average Number of Servers:     6
+Average Total Wait Time: 3.39
+Customers in line at end of simulation: 16
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 0   customers come
+At time 1 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time2
+ server 1  is serving customer2
+waited time  0	transaction time2
+ server 2  is serving customer3
+waited time  0	transaction time29
+ server 3  is serving customer4
+waited time  0	transaction time12
+At time 2 1   customers come
+ server 4  is serving customer5
+waited time  0	transaction time18
+At time 3 0   customers come
+At time 4 0   customers come
+At time 5 3   customers come
+ server 0  is serving customer6
+waited time  0	transaction time6
+ server 1  is serving customer7
+waited time  0	transaction time24
+ server 5  is serving customer8
+waited time  0	transaction time19
+At time 6 4   customers come
+At time 7 3   customers come
+At time 8 4   customers come
+At time 9 4   customers come
+At time 10 2   customers come
+At time 11 4   customers come
+ server 0  is serving customer9
+waited time  5	transaction time10
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.56
+Average Number of Servers:     6
+Average Total Wait Time: 2.55
+Customers in line at end of simulation: 20
+After simulation time : 
+server0is serving customer9
+server0has served 3customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time22
+ server 1  is serving customer2
+waited time  0	transaction time24
+ server 2  is serving customer3
+waited time  0	transaction time11
+ server 3  is serving customer4
+waited time  0	transaction time13
+At time 1 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time16
+ server 5  is serving customer6
+waited time  0	transaction time10
+At time 2 4   customers come
+At time 3 1   customers come
+At time 4 2   customers come
+At time 5 3   customers come
+At time 6 2   customers come
+At time 7 3   customers come
+At time 8 3   customers come
+At time 9 1   customers come
+At time 10 1   customers come
+At time 11 0   customers come
+ server 2  is serving customer7
+waited time  10	transaction time12
+ server 5  is serving customer8
+waited time  9	transaction time20
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.00
+Average Number of Servers:     6
+Average Total Wait Time: 5.15
+Customers in line at end of simulation: 19
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 2customers
+At time 0 0   customers come
+At time 1 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time13
+At time 2 3   customers come
+ server 1  is serving customer2
+waited time  0	transaction time28
+ server 2  is serving customer3
+waited time  0	transaction time1
+ server 3  is serving customer4
+waited time  0	transaction time5
+At time 3 3   customers come
+ server 2  is serving customer5
+waited time  0	transaction time20
+ server 4  is serving customer6
+waited time  0	transaction time1
+ server 5  is serving customer7
+waited time  0	transaction time29
+At time 4 1   customers come
+ server 4  is serving customer8
+waited time  0	transaction time22
+At time 5 1   customers come
+At time 6 1   customers come
+At time 7 1   customers come
+ server 3  is serving customer9
+waited time  2	transaction time27
+At time 8 1   customers come
+At time 9 0   customers come
+At time 10 0   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.22
+Average Number of Servers:     6
+Average Total Wait Time: 1.33
+Customers in line at end of simulation: 6
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer5
+server2has served 2customers
+server3is serving customer9
+server3has served 2customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer7
+server5has served 1customers
+At time 0 4   customers come
+ server 0  is serving customer1
+waited time  0	transaction time21
+ server 1  is serving customer2
+waited time  0	transaction time18
+ server 2  is serving customer3
+waited time  0	transaction time26
+ server 3  is serving customer4
+waited time  0	transaction time29
+At time 1 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time7
+ server 5  is serving customer6
+waited time  0	transaction time16
+At time 2 4   customers come
+At time 3 0   customers come
+At time 4 0   customers come
+At time 5 2   customers come
+At time 6 4   customers come
+At time 7 1   customers come
+At time 8 1   customers come
+ server 4  is serving customer7
+waited time  7	transaction time22
+At time 9 0   customers come
+At time 10 2   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      19.86
+Average Number of Servers:     6
+Average Total Wait Time: 4.21
+Customers in line at end of simulation: 17
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time3
+At time 1 4   customers come
+ server 1  is serving customer2
+waited time  0	transaction time25
+ server 2  is serving customer3
+waited time  0	transaction time16
+ server 3  is serving customer4
+waited time  0	transaction time6
+ server 4  is serving customer5
+waited time  0	transaction time21
+At time 2 1   customers come
+ server 5  is serving customer6
+waited time  0	transaction time27
+At time 3 3   customers come
+ server 0  is serving customer7
+waited time  0	transaction time15
+At time 4 1   customers come
+At time 5 2   customers come
+At time 6 4   customers come
+At time 7 1   customers come
+ server 3  is serving customer8
+waited time  4	transaction time28
+At time 8 0   customers come
+At time 9 4   customers come
+At time 10 1   customers come
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      17.62
+Average Number of Servers:     6
+Average Total Wait Time: 3.55
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time14
+At time 1 3   customers come
+ server 1  is serving customer2
+waited time  0	transaction time16
+ server 2  is serving customer3
+waited time  0	transaction time6
+ server 3  is serving customer4
+waited time  0	transaction time15
+At time 2 4   customers come
+ server 4  is serving customer5
+waited time  0	transaction time27
+ server 5  is serving customer6
+waited time  0	transaction time25
+At time 3 1   customers come
+At time 4 1   customers come
+At time 5 2   customers come
+At time 6 3   customers come
+At time 7 0   customers come
+ server 2  is serving customer7
+waited time  5	transaction time15
+At time 8 3   customers come
+At time 9 2   customers come
+At time 10 1   customers come
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.86
+Average Number of Servers:     6
+Average Total Wait Time: 3.86
+Customers in line at end of simulation: 15
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer7
+server2has served 2customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time7
+At time 1 0   customers come
+At time 2 2   customers come
+ server 1  is serving customer2
+waited time  0	transaction time10
+ server 2  is serving customer3
+waited time  0	transaction time1
+At time 3 3   customers come
+ server 2  is serving customer4
+waited time  0	transaction time29
+ server 3  is serving customer5
+waited time  0	transaction time26
+ server 4  is serving customer6
+waited time  0	transaction time16
+At time 4 1   customers come
+ server 5  is serving customer7
+waited time  0	transaction time28
+At time 5 3   customers come
+At time 6 0   customers come
+At time 7 0   customers come
+ server 0  is serving customer8
+waited time  2	transaction time4
+At time 8 0   customers come
+At time 9 4   customers come
+At time 10 4   customers come
+At time 11 3   customers come
+ server 0  is serving customer9
+waited time  6	transaction time7
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.22
+Average Number of Servers:     6
+Average Total Wait Time: 1.81
+Customers in line at end of simulation: 12
+After simulation time : 
+server0is serving customer9
+server0has served 3customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer4
+server2has served 2customers
+server3is serving customer5
+server3has served 1customers
+server4is serving customer6
+server4has served 1customers
+server5is serving customer7
+server5has served 1customers
+At time 0 0   customers come
+At time 1 0   customers come
+At time 2 0   customers come
+At time 3 0   customers come
+At time 4 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time10
+ server 1  is serving customer2
+waited time  0	transaction time11
+At time 5 0   customers come
+At time 6 3   customers come
+ server 2  is serving customer3
+waited time  0	transaction time23
+ server 3  is serving customer4
+waited time  0	transaction time22
+ server 4  is serving customer5
+waited time  0	transaction time5
+At time 7 4   customers come
+ server 5  is serving customer6
+waited time  0	transaction time1
+At time 8 3   customers come
+ server 5  is serving customer7
+waited time  1	transaction time10
+At time 9 1   customers come
+At time 10 4   customers come
+At time 11 1   customers come
+ server 4  is serving customer8
+waited time  4	transaction time9
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      11.38
+Average Number of Servers:     6
+Average Total Wait Time: 1.89
+Customers in line at end of simulation: 10
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer7
+server5has served 2customers
+At time 0 0   customers come
+At time 1 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time27
+At time 2 2   customers come
+ server 1  is serving customer2
+waited time  0	transaction time22
+ server 2  is serving customer3
+waited time  0	transaction time22
+At time 3 2   customers come
+ server 3  is serving customer4
+waited time  0	transaction time4
+ server 4  is serving customer5
+waited time  0	transaction time27
+At time 4 3   customers come
+ server 5  is serving customer6
+waited time  0	transaction time2
+At time 5 3   customers come
+At time 6 3   customers come
+ server 5  is serving customer7
+waited time  2	transaction time27
+At time 7 1   customers come
+ server 3  is serving customer8
+waited time  3	transaction time16
+At time 8 3   customers come
+At time 9 1   customers come
+At time 10 2   customers come
+At time 11 1   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      18.38
+Average Number of Servers:     6
+Average Total Wait Time: 3.14
+Customers in line at end of simulation: 14
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer7
+server5has served 2customers
+At time 0 0   customers come
+At time 1 0   customers come
+At time 2 0   customers come
+At time 3 0   customers come
+At time 4 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time7
+At time 5 1   customers come
+ server 1  is serving customer2
+waited time  0	transaction time30
+At time 6 0   customers come
+At time 7 0   customers come
+At time 8 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time23
+ server 3  is serving customer4
+waited time  0	transaction time19
+At time 9 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time6
+ server 5  is serving customer6
+waited time  0	transaction time2
+At time 10 4   customers come
+At time 11 2   customers come
+ server 0  is serving customer7
+waited time  2	transaction time5
+ server 5  is serving customer8
+waited time  1	transaction time13
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      13.12
+Average Number of Servers:     6
+Average Total Wait Time: 0.85
+Customers in line at end of simulation: 5
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer8
+server5has served 2customers
+At time 0 0   customers come
+At time 1 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time27
+ server 1  is serving customer2
+waited time  0	transaction time6
+At time 2 4   customers come
+ server 2  is serving customer3
+waited time  0	transaction time13
+ server 3  is serving customer4
+waited time  0	transaction time14
+ server 4  is serving customer5
+waited time  0	transaction time23
+ server 5  is serving customer6
+waited time  0	transaction time1
+At time 3 0   customers come
+At time 4 3   customers come
+ server 5  is serving customer7
+waited time  0	transaction time4
+At time 5 1   customers come
+At time 6 0   customers come
+At time 7 0   customers come
+ server 1  is serving customer8
+waited time  3	transaction time10
+At time 8 1   customers come
+ server 5  is serving customer9
+waited time  4	transaction time29
+At time 9 0   customers come
+At time 10 1   customers come
+At time 11 0   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.11
+Average Number of Servers:     6
+Average Total Wait Time: 1.67
+Customers in line at end of simulation: 3
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer8
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer9
+server5has served 3customers
+At time 0 2   customers come
+ server 0  is serving customer1
+waited time  0	transaction time12
+ server 1  is serving customer2
+waited time  0	transaction time19
+At time 1 2   customers come
+ server 2  is serving customer3
+waited time  0	transaction time17
+ server 3  is serving customer4
+waited time  0	transaction time21
+At time 2 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time1
+ server 5  is serving customer6
+waited time  0	transaction time17
+At time 3 1   customers come
+ server 4  is serving customer7
+waited time  1	transaction time19
+At time 4 4   customers come
+At time 5 4   customers come
+At time 6 0   customers come
+At time 7 3   customers come
+At time 8 3   customers come
+At time 9 3   customers come
+At time 10 2   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      15.14
+Average Number of Servers:     6
+Average Total Wait Time: 3.77
+Customers in line at end of simulation: 23
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer4
+server3has served 1customers
+server4is serving customer7
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+At time 0 1   customers come
+ server 0  is serving customer1
+waited time  0	transaction time3
+At time 1 3   customers come
+ server 1  is serving customer2
+waited time  0	transaction time30
+ server 2  is serving customer3
+waited time  0	transaction time13
+ server 3  is serving customer4
+waited time  0	transaction time4
+At time 2 3   customers come
+ server 4  is serving customer5
+waited time  0	transaction time30
+ server 5  is serving customer6
+waited time  0	transaction time3
+At time 3 3   customers come
+ server 0  is serving customer7
+waited time  1	transaction time18
+At time 4 2   customers come
+At time 5 2   customers come
+ server 3  is serving customer8
+waited time  2	transaction time29
+ server 5  is serving customer9
+waited time  2	transaction time22
+At time 6 4   customers come
+At time 7 4   customers come
+At time 8 3   customers come
+At time 9 2   customers come
+At time 10 2   customers come
+At time 11 4   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      16.89
+Average Number of Servers:     6
+Average Total Wait Time: 3.45
+Customers in line at end of simulation: 24
+After simulation time : 
+server0is serving customer7
+server0has served 2customers
+server1is serving customer2
+server1has served 1customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer8
+server3has served 2customers
+server4is serving customer5
+server4has served 1customers
+server5is serving customer9
+server5has served 2customers
+At time 0 3   customers come
+ server 0  is serving customer1
+waited time  0	transaction time26
+ server 1  is serving customer2
+waited time  0	transaction time4
+ server 2  is serving customer3
+waited time  0	transaction time18
+At time 1 0   customers come
+At time 2 3   customers come
+ server 3  is serving customer4
+waited time  0	transaction time3
+ server 4  is serving customer5
+waited time  0	transaction time2
+ server 5  is serving customer6
+waited time  0	transaction time26
+At time 3 1   customers come
+At time 4 2   customers come
+ server 1  is serving customer7
+waited time  1	transaction time28
+ server 4  is serving customer8
+waited time  0	transaction time15
+At time 5 1   customers come
+ server 3  is serving customer9
+waited time  1	transaction time11
+At time 6 0   customers come
+At time 7 1   customers come
+At time 8 1   customers come
+At time 9 2   customers come
+At time 10 1   customers come
+At time 11 3   customers come
+
+---------------
+- Data Output -
+---------------
+Simulation Time:               12
+Average Transaction Time:      14.78
+Average Number of Servers:     6
+Average Total Wait Time: 1.61
+Customers in line at end of simulation: 9
+After simulation time : 
+server0is serving customer1
+server0has served 1customers
+server1is serving customer7
+server1has served 2customers
+server2is serving customer3
+server2has served 1customers
+server3is serving customer9
+server3has served 2customers
+server4is serving customer8
+server4has served 2customers
+server5is serving customer6
+server5has served 1customers
+
+

@@ -1,0 +1,1055 @@
+Run1
+
+interval1.00864-3.75897queue size0
+the average number of customers0
+cpu utilized is0.319805%
+Run2
+
+interval1.33398-1.20611queue size0
+interval1.20611-5.8416queue size1
+interval5.8416-3.62069queue size2
+interval3.62069-1.78912queue size3
+interval1.78912-9.34393queue size4
+interval9.34393-4.11991queue size3
+interval4.11991-9.29247queue size2
+interval9.29247-9.13988queue size1
+interval9.13988-9.46092queue size0
+the average number of customers2.26031
+cpu utilized is0.944993%
+Run3
+
+interval1.71884-0.479005queue size0
+interval0.479005-5.88251queue size1
+interval5.88251-7.52257queue size2
+interval7.52257-2.18176queue size1
+interval2.18176-0.106518queue size0
+interval0.616752-6.89116queue size0
+interval6.89116-8.69857queue size1
+interval8.69857-3.05614queue size2
+interval3.05614-9.44965queue size3
+the average number of customers1.51697
+cpu utilized is0.839602%
+Run4
+
+interval3.86549-7.60235queue size0
+the average number of customers0
+cpu utilized is0.434519%
+Run5
+
+interval3.83455-5.3921queue size0
+interval5.3921-6.9765queue size1
+interval6.9765-2.97442queue size2
+interval2.97442-4.85302queue size3
+interval4.85302-8.06242queue size4
+interval8.06242-4.07018queue size3
+interval4.07018-7.62669queue size2
+interval7.62669-6.76099queue size1
+interval6.76099-7.12632queue size0
+the average number of customers0.735376
+cpu utilized is0.382764%
+Run6
+
+interval5.14926-8.94275queue size0
+interval8.94275-7.23284queue size1
+interval7.23284-0.3025queue size2
+interval0.3025-8.39241queue size3
+interval8.39241-1.09833queue size4
+interval1.09833-0.175382queue size5
+interval0.175382-1.04009queue size6
+interval1.04009-9.1353queue size7
+the average number of customers4.27475
+cpu utilized is0.463494%
+Run7
+
+interval2.6241-5.16927queue size0
+the average number of customers0
+cpu utilized is0.29595%
+Run8
+
+interval0.828909-2.69288queue size0
+interval2.69288-2.50364queue size1
+interval2.50364-7.5899queue size2
+interval7.5899-7.9554queue size3
+interval7.9554-4.92506queue size2
+interval4.92506-8.15036queue size1
+interval8.15036-8.13078queue size0
+the average number of customers0.958651
+cpu utilized is0.849055%
+Run9
+
+interval7.28566-7.23251queue size0
+interval7.23251-0.986895queue size1
+interval0.986895-5.66405queue size2
+interval5.66405-1.10219queue size3
+interval1.10219-3.61099queue size4
+interval3.61099-5.07465queue size5
+interval5.07465-7.50729queue size6
+interval7.50729-2.16929queue size5
+interval2.16929-1.65733queue size4
+interval1.65733-6.79568queue size3
+interval6.79568-6.24043queue size2
+the average number of customers0.806878
+cpu utilized is0.121539%
+Run10
+
+interval6.82659-0.9371queue size0
+interval0.9371-7.42572queue size1
+interval7.42572-7.96136queue size0
+the average number of customers0.754491
+cpu utilized is0.13195%
+Run11
+
+interval3.92599-6.11347queue size0
+interval3.16375-2.05677queue size0
+interval2.05677-4.84858queue size1
+interval4.84858-0.449414queue size2
+interval0.449414-9.28928queue size3
+interval9.28928-5.83548queue size4
+interval5.83548-9.44647queue size5
+the average number of customers2.87824
+cpu utilized is0.984907%
+Run12
+
+simulation not possible
+interval6.95376-3.35741queue size0
+interval3.35741-1.51128queue size1
+interval1.51128-3.74944queue size2
+interval3.74944-3.78716queue size3
+interval3.78716-0.500595queue size2
+interval0.500595-8.44058queue size1
+interval8.44058-1.92932queue size0
+the average number of customers0.477931
+cpu utilized is0.584237%
+Run13
+
+simulation not possible
+interval5.86631-0.771645queue size0
+the average number of customers0
+cpu utilized is0.592403%
+Run14
+
+interval4.63071-0.452394queue size0
+interval0.452394-8.83866queue size1
+interval8.83866-5.81883queue size2
+interval5.81883-0.306346queue size3
+interval0.306346-5.79242queue size4
+interval5.79242-9.17624queue size5
+interval9.17624-1.81762queue size6
+interval1.81762-9.54186queue size7
+the average number of customers4.02215
+cpu utilized is0.571064%
+Run15
+
+simulation not possible
+interval3.94265-1.51041queue size0
+interval5.81942-5.87197queue size0
+interval5.87197-3.54729queue size1
+interval3.54729-1.68573queue size2
+interval1.68573-5.76265queue size3
+interval5.76265-7.05104queue size4
+interval7.05104-0.218535queue size3
+interval0.218535-8.33617queue size2
+interval8.33617-8.73454queue size3
+the average number of customers0.961559
+cpu utilized is0.0561497%
+Run16
+
+simulation not possible
+interval7.82269-3.77524queue size0
+interval3.77524-7.25178queue size1
+interval7.25178-7.70131queue size2
+interval7.70131-7.88361queue size1
+interval7.88361-3.16743queue size2
+interval3.16743-1.88248queue size3
+interval1.88248-8.33601queue size4
+interval8.33601-2.00608queue size5
+interval2.00608-8.64235queue size6
+the average number of customers2.93637
+cpu utilized is0.0953101%
+Run17
+
+simulation not possible
+interval7.34036-0.430085queue size0
+interval5.65162-0.615469queue size0
+interval0.615469-1.56876queue size1
+interval1.56876-3.03046queue size2
+interval3.03046-4.55812queue size3
+interval4.55812-6.29776queue size4
+interval6.29776-8.84988queue size5
+interval8.84988-9.84504queue size6
+the average number of customers3.97091
+cpu utilized is0.315913%
+Run18
+
+simulation not possible
+interval2.04602-0.938554queue size0
+interval6.85945-5.23225queue size0
+interval5.23225-2.26455queue size1
+interval2.26455-5.59399queue size2
+interval5.59399-3.05494queue size3
+interval3.05494-6.03979queue size4
+interval6.03979-2.84577queue size5
+interval2.84577-9.20722queue size6
+the average number of customers3.51302
+cpu utilized is0.144221%
+Run19
+
+interval2.42956-7.91692queue size0
+interval7.91692-7.92092queue size1
+interval7.92092-7.98919queue size0
+the average number of customers0.000465283
+cpu utilized is0.646468%
+Run20
+
+simulation not possible
+interval3.98056-1.68523queue size0
+interval0.173295-2.24493queue size0
+interval2.24493-7.72502queue size1
+interval7.72502-5.4725queue size0
+the average number of customers0.637221
+cpu utilized is0.349288%
+Run21
+
+interval1.47067-1.93742queue size0
+interval6.93224-0.200755queue size0
+interval0.200755-0.745234queue size1
+interval0.745234-7.03904queue size2
+interval7.03904-3.50949queue size1
+interval3.50949-6.89615queue size0
+the average number of customers1.11658
+cpu utilized is0.0500773%
+Run22
+
+interval1.43041-3.73574queue size0
+the average number of customers0
+cpu utilized is0.268062%
+Run23
+
+interval0.204992-2.18293queue size0
+the average number of customers0
+cpu utilized is0.229993%
+Run24
+
+simulation not possible
+interval3.63622-0.754119queue size0
+the average number of customers0
+cpu utilized is0.335128%
+Run25
+
+interval0.795608-2.42465queue size0
+interval2.42465-2.89597queue size1
+interval2.89597-3.82705queue size0
+interval1.5641-1.85956queue size0
+interval1.85956-4.96595queue size1
+interval4.96595-4.95932queue size2
+interval4.95932-1.82658queue size3
+interval1.82658-7.75823queue size4
+the average number of customers2.08056
+cpu utilized is1.07274%
+Run26
+
+interval5.44721-0.766021queue size0
+interval0.766021-4.59433queue size1
+interval4.59433-6.29229queue size2
+interval6.29229-0.931152queue size3
+interval0.931152-8.23056queue size4
+interval8.23056-4.17642queue size5
+interval4.17642-4.60578queue size6
+interval4.60578-8.76294queue size7
+the average number of customers3.69116
+cpu utilized is0.385549%
+Run27
+
+interval0.46493-1.00893queue size0
+interval1.32278-5.21605queue size0
+the average number of customers0
+cpu utilized is0.515962%
+Run28
+
+interval0.186874-2.04642queue size0
+the average number of customers0
+cpu utilized is0.216226%
+Run29
+
+interval4.27867-4.31478queue size0
+interval4.31478-3.95886queue size1
+interval3.95886-5.35564queue size2
+interval5.35564-7.34609queue size1
+interval7.34609-3.99821queue size0
+interval8.45932-5.90415queue size0
+interval5.90415-4.42379queue size1
+interval4.42379-8.71214queue size2
+interval8.71214-9.67104queue size1
+the average number of customers1.45155
+cpu utilized is0.108287%
+Run30
+
+interval5.00715-3.92819queue size0
+interval3.92819-5.09392queue size1
+interval5.09392-3.46155queue size0
+interval6.96194-0.975403queue size0
+interval0.975403-0.970827queue size1
+interval0.970827-7.03186queue size2
+interval7.03186-3.80504queue size1
+interval3.80504-0.746722queue size0
+the average number of customers1.16935
+cpu utilized is0.902421%
+Run31
+
+simulation not possible
+interval9.07828-3.44731queue size0
+interval3.44731-6.26245queue size1
+interval6.26245-5.30111queue size2
+interval5.30111-7.69536queue size3
+interval7.69536-0.54112queue size4
+interval0.54112-9.00044queue size5
+interval9.00044-5.52004queue size4
+interval5.52004-6.07802queue size3
+interval6.07802-8.78255queue size2
+interval8.78255-0.0734206queue size1
+the average number of customers0.721756
+cpu utilized is1.04708%
+Run32
+
+simulation not possible
+interval1.43366-0.0541844queue size0
+interval4.07163-0.145797queue size0
+interval0.145797-5.79968queue size1
+interval5.79968-9.07878queue size2
+interval9.07878-4.07399queue size3
+interval4.07399-2.76162queue size4
+interval2.76162-9.91043queue size5
+the average number of customers3.22004
+cpu utilized is0.518526%
+Run33
+
+interval5.00435-4.28644queue size0
+interval4.28644-3.35442queue size1
+interval3.35442-7.73381queue size2
+interval7.73381-8.80939queue size1
+interval8.80939-5.03316queue size2
+interval5.03316-2.4327queue size3
+interval2.4327-2.25671queue size4
+interval2.25671-1.29562queue size5
+interval1.29562-9.95207queue size6
+the average number of customers4.64858
+cpu utilized is0.575316%
+Run34
+
+interval0.837181-2.86975queue size0
+interval2.86975-7.68431queue size1
+interval7.68431-9.26377queue size2
+interval9.26377-1.54804queue size1
+interval1.54804-6.09359queue size0
+the average number of customers0.0299697
+cpu utilized is0.61121%
+Run35
+
+interval6.14777-8.03383queue size0
+the average number of customers0
+cpu utilized is0.219309%
+Run36
+
+interval8.22606-0.242607queue size0
+interval0.242607-9.42463queue size1
+interval9.42463-5.57577queue size2
+interval5.57577-1.8489queue size3
+interval1.8489-0.261811queue size4
+interval0.261811-8.44553queue size5
+interval8.44553-9.53322queue size6
+interval9.53322-9.88154queue size7
+the average number of customers3.93469
+cpu utilized is0.192497%
+Run37
+
+simulation not possible
+interval7.91495-7.17794queue size0
+interval7.17794-4.4971queue size1
+interval4.4971-1.25271queue size2
+interval1.25271-1.48759queue size3
+interval1.48759-0.64487queue size4
+interval0.64487-7.61754queue size5
+interval7.61754-4.34041queue size4
+interval4.34041-4.93212queue size3
+interval4.93212-8.87665queue size2
+interval8.87665-2.39997queue size1
+the average number of customers1.52401
+cpu utilized is0.641277%
+Run38
+
+interval2.96595-5.16892queue size0
+interval5.16892-2.89222queue size1
+interval2.89222-3.25649queue size2
+interval3.25649-2.75681queue size3
+interval2.75681-1.11828queue size4
+interval1.11828-3.4991queue size5
+interval3.4991-2.18144queue size6
+interval2.18144-6.69405queue size7
+the average number of customers3.02152
+cpu utilized is0.4335%
+Run39
+
+interval2.32479-2.70006queue size0
+interval6.52828-3.5324queue size0
+interval3.5324-6.62023queue size1
+interval6.62023-0.0737538queue size0
+the average number of customers0.359049
+cpu utilized is0.70689%
+Run40
+
+simulation not possible
+interval7.69129-3.48248queue size0
+the average number of customers0
+cpu utilized is0.489397%
+Run41
+
+simulation not possible
+interval9.78028-2.32958queue size0
+interval2.32958-9.11836queue size1
+interval9.11836-4.91986queue size2
+interval4.91986-7.2108queue size3
+interval7.2108-1.44315queue size4
+interval1.44315-1.44814queue size5
+interval1.44814-0.743203queue size6
+interval0.743203-9.39784queue size7
+the average number of customers4.4851
+cpu utilized is0.0444691%
+Run42
+
+simulation not possible
+interval4.89062-0.141789queue size0
+interval1.1507-2.97746queue size0
+the average number of customers0
+cpu utilized is0.339776%
+Run43
+
+simulation not possible
+interval4.44711-2.73177queue size0
+the average number of customers0
+cpu utilized is0.199458%
+Run44
+
+interval3.00678-0.559828queue size0
+interval0.559828-3.90283queue size1
+interval3.90283-6.01942queue size2
+interval6.01942-2.16657queue size1
+interval2.16657-5.82505queue size0
+interval7.53726-6.36864queue size0
+interval6.36864-8.79345queue size1
+interval8.79345-8.68796queue size2
+interval8.68796-2.2512queue size3
+interval2.2512-9.92115queue size4
+the average number of customers2.01241
+cpu utilized is0.604903%
+Run45
+
+interval5.96684-2.89861queue size0
+interval2.89861-3.86984queue size1
+interval3.86984-7.84548queue size2
+interval7.84548-7.84402queue size3
+interval7.84402-8.31694queue size4
+interval8.31694-4.2178queue size5
+interval4.2178-5.87565queue size6
+interval5.87565-9.74563queue size7
+the average number of customers3.18035
+cpu utilized is0.439394%
+Run46
+
+simulation not possible
+interval6.41933-3.58397queue size0
+interval4.47296-3.03994queue size0
+interval3.03994-0.599234queue size1
+interval0.599234-6.18522queue size2
+interval6.18522-6.04672queue size3
+interval6.04672-1.15906queue size4
+interval1.15906-0.0880483queue size5
+interval0.0880483-7.5277queue size6
+the average number of customers3.26139
+cpu utilized is0.0255101%
+Run47
+
+interval4.90092-4.4385queue size0
+interval4.4385-5.60394queue size1
+interval5.60394-4.82207queue size2
+interval4.82207-7.34371queue size3
+interval7.34371-1.57078queue size4
+interval1.57078-7.72068queue size5
+interval7.72068-1.21354queue size6
+interval1.21354-9.41626queue size7
+the average number of customers3.86054
+cpu utilized is0.52504%
+Run48
+
+simulation not possible
+interval9.27611-0.899272queue size0
+interval0.899272-2.14648queue size1
+interval2.14648-3.43818queue size0
+interval5.12791-2.78queue size0
+interval2.78-0.330272queue size1
+interval0.330272-1.54724queue size2
+interval1.54724-7.25296queue size3
+interval7.25296-3.37021queue size4
+interval3.37021-9.41693queue size5
+the average number of customers3.84316
+cpu utilized is0.180107%
+Run49
+
+simulation not possible
+interval3.0009-0.833238queue size0
+interval0.833238-2.13071queue size1
+interval2.13071-2.40773queue size0
+interval2.40773-5.27283queue size1
+interval5.27283-0.612132queue size2
+interval0.612132-7.05504queue size3
+interval7.05504-7.30864queue size2
+interval7.30864-7.78685queue size3
+interval7.78685-9.71133queue size2
+interval9.71133-6.21607queue size3
+interval6.21607-9.85139queue size4
+the average number of customers2.79258
+cpu utilized is0.796569%
+Run50
+
+interval7.20311-5.4161queue size0
+interval5.4161-7.79906queue size1
+interval7.79906-0.837165queue size2
+interval0.837165-6.85645queue size3
+interval6.85645-7.07517queue size4
+interval7.07517-1.73644queue size5
+interval1.73644-1.98436queue size6
+interval1.98436-9.85518queue size7
+the average number of customers4.33506
+cpu utilized is0.30838%
+Run51
+
+simulation not possible
+interval5.67808-0.546317queue size0
+interval0.546317-3.12758queue size1
+interval3.12758-0.428995queue size0
+the average number of customers0.300147
+cpu utilized is0.610359%
+Run52
+
+simulation not possible
+interval5.91963-2.47219queue size0
+the average number of customers0
+cpu utilized is0.400865%
+Run53
+
+interval2.89194-6.27534queue size0
+interval6.27534-3.55954queue size1
+interval3.55954-7.75559e-05queue size2
+interval7.75559e-05-1.71226queue size3
+interval1.71226-8.22124queue size4
+interval8.22124-4.61894queue size3
+interval4.61894-4.42085queue size2
+interval4.42085-8.03811queue size1
+interval8.03811-1.09922queue size0
+the average number of customers1.59906
+cpu utilized is0.208457%
+Run54
+
+simulation not possible
+interval7.54843-6.57878queue size0
+the average number of customers0
+cpu utilized is0.112749%
+Run55
+
+simulation not possible
+interval3.65131-0.334187queue size0
+interval5.80947-5.84753queue size0
+interval7.44217-7.85994queue size0
+interval7.85994-5.83739queue size1
+interval5.83739-0.33411queue size2
+interval0.33411-4.13528queue size3
+interval4.13528-8.63455queue size4
+interval8.63455-0.880582queue size3
+interval0.880582-2.41363queue size2
+the average number of customers0.444688
+cpu utilized is0.965999%
+Run56
+
+simulation not possible
+interval6.85579-4.77025queue size0
+interval5.49952-6.83448queue size0
+interval6.83448-4.8939queue size1
+interval4.8939-6.59874queue size2
+interval6.59874-4.38291queue size3
+interval4.38291-3.361queue size4
+interval3.361-1.48687queue size5
+interval1.48687-8.47318queue size6
+the average number of customers2.70711
+cpu utilized is0.103268%
+Run57
+
+simulation not possible
+interval8.87341-0.707633queue size0
+interval3.49535-8.28617queue size0
+the average number of customers0
+cpu utilized is0.392437%
+Run58
+
+interval6.01122-0.690445queue size0
+interval0.690445-6.31765queue size1
+interval6.31765-6.8918queue size2
+interval6.8918-3.10408queue size3
+interval3.10408-3.17345queue size4
+interval3.17345-2.39132queue size5
+interval2.39132-8.06735queue size6
+interval8.06735-8.99006queue size5
+interval8.99006-4.32147queue size4
+interval4.32147-1.42835queue size3
+interval1.42835-0.476933queue size2
+the average number of customers0.138646
+cpu utilized is0.643521%
+Run59
+
+simulation not possible
+interval9.09172-8.28429queue size0
+interval2.77156-4.14326queue size0
+interval4.14326-7.91879queue size1
+interval7.91879-1.64498queue size2
+interval1.64498-7.63861queue size3
+interval7.63861-7.11518queue size4
+interval7.11518-9.96287queue size5
+the average number of customers2.48297
+cpu utilized is0.742311%
+Run60
+
+interval0.670504-9.01925queue size0
+interval9.01925-6.55931queue size1
+interval6.55931-5.51342queue size2
+interval5.51342-6.70235queue size3
+interval6.70235-2.57053queue size4
+interval2.57053-6.20386queue size5
+interval6.20386-3.02queue size6
+interval3.02-9.46233queue size7
+the average number of customers3.09855
+cpu utilized is1.0223%
+Run61
+
+interval4.2608-0.84371queue size0
+interval0.84371-3.56798queue size1
+interval3.56798-5.68915queue size2
+interval5.68915-1.32064queue size3
+interval1.32064-2.6597queue size4
+interval2.6597-5.59068queue size5
+interval5.59068-4.09221queue size6
+interval4.09221-6.80296queue size7
+the average number of customers2.77403
+cpu utilized is0.2956%
+Run62
+
+interval4.02148-6.77145queue size0
+interval0.587527-4.75455queue size0
+interval4.75455-0.863207queue size1
+interval0.863207-1.25803queue size2
+interval1.25803-3.7738queue size3
+interval3.7738-7.42252queue size4
+interval7.42252-9.99304queue size5
+the average number of customers3.7085
+cpu utilized is1.41343%
+Run63
+
+interval9.45537-2.28325queue size0
+interval2.28325-9.63956queue size1
+interval9.63956-3.47337queue size0
+the average number of customers0.855386
+cpu utilized is0.695581%
+Run64
+
+simulation not possible
+interval4.56038-2.0788queue size0
+interval8.73973-3.30277queue size0
+interval3.30277-9.00195queue size1
+interval9.00195-9.36438queue size2
+interval9.36438-7.32425queue size3
+interval7.32425-8.98288queue size4
+interval8.98288-9.84609queue size5
+interval9.84609-1.20994queue size4
+interval1.20994-5.8526queue size3
+interval5.8526-7.2686queue size2
+the average number of customers0.759348
+cpu utilized is0.459617%
+Run65
+
+interval7.98139-6.32875queue size0
+interval6.32875-7.26165queue size1
+interval7.26165-0.956693queue size2
+interval0.956693-8.02603queue size3
+interval8.02603-4.76969queue size2
+interval4.76969-3.46493queue size1
+interval3.46493-0.178759queue size0
+interval9.82491-6.71701queue size0
+interval6.71701-3.23994queue size1
+interval3.23994-9.51452queue size2
+interval9.51452-9.86742queue size3
+the average number of customers1.37725
+cpu utilized is0.90234%
+Run66
+
+simulation not possible
+interval3.10449-1.18718queue size0
+interval3.65213-6.43885queue size0
+the average number of customers0
+cpu utilized is0.101093%
+Run67
+
+interval3.92352-0.0161423queue size0
+interval0.0161423-6.53877queue size1
+interval6.53877-5.92978queue size0
+interval9.77612-7.28474queue size0
+interval7.28474-5.58208queue size1
+interval5.58208-6.10487queue size2
+interval6.10487-4.54639queue size3
+interval4.54639-9.77871queue size4
+the average number of customers2.57202
+cpu utilized is0.233588%
+Run68
+
+simulation not possible
+interval9.28944-0.348463queue size0
+the average number of customers0
+cpu utilized is1.03965%
+Run69
+
+simulation not possible
+interval5.41307-3.86177queue size0
+interval3.86177-0.703225queue size1
+interval0.703225-4.40286queue size2
+interval4.40286-2.88401queue size1
+interval2.88401-3.4353queue size0
+interval0.252527-4.62674queue size0
+interval4.62674-5.59927queue size1
+interval5.59927-7.4304queue size2
+the average number of customers0.855427
+cpu utilized is0.604663%
+Run70
+
+simulation not possible
+interval9.97407-6.43752queue size0
+interval6.43752-7.45144queue size1
+interval7.45144-8.69381queue size0
+interval8.69381-8.71701queue size1
+interval8.71701-2.80478queue size0
+the average number of customers0.120595
+cpu utilized is0.833639%
+Run71
+
+interval3.15324-4.9098queue size0
+interval4.9098-4.98356queue size1
+interval4.98356-0.576169queue size2
+interval0.576169-3.7683queue size3
+interval3.7683-0.396627queue size4
+interval0.396627-4.43794queue size5
+interval4.43794-4.47153queue size6
+interval4.47153-5.97975queue size7
+the average number of customers2.12958
+cpu utilized is0.328664%
+Run72
+
+interval3.50114-4.46303queue size0
+interval4.46303-5.70585queue size1
+interval5.70585-2.32821queue size0
+interval5.97899-4.00887queue size0
+interval4.00887-1.89343queue size1
+interval1.89343-5.95306queue size2
+interval5.95306-0.446391queue size3
+interval0.446391-0.58724queue size4
+interval0.58724-8.57048queue size5
+the average number of customers3.62863
+cpu utilized is0.16495%
+Run73
+
+interval6.02192-8.72404queue size0
+interval8.72404-5.92404queue size1
+interval5.92404-6.59369queue size2
+interval6.59369-9.48171queue size3
+interval9.48171-9.07728queue size4
+interval9.07728-1.50348queue size5
+interval1.50348-4.46527queue size6
+interval4.46527-9.65345queue size7
+the average number of customers2.53542
+cpu utilized is0.422271%
+Run74
+
+interval0.84165-6.35159queue size0
+interval1.32556-2.34271queue size0
+interval2.34271-6.8837queue size1
+interval6.8837-7.30455queue size2
+interval7.30455-9.36438queue size3
+the average number of customers1.34444
+cpu utilized is1.57544%
+Run75
+
+simulation not possible
+interval8.96346-0.550467queue size0
+the average number of customers0
+cpu utilized is0.978255%
+Run76
+
+interval6.90024-7.32573queue size0
+interval7.32573-6.50342queue size1
+interval6.50342-0.991634queue size2
+interval0.991634-7.06904queue size3
+interval7.06904-7.34507queue size4
+interval7.34507-9.76574queue size5
+interval9.76574-1.09906queue size4
+interval1.09906-8.25333queue size3
+interval8.25333-6.64944queue size2
+interval6.64944-8.4036queue size1
+the average number of customers0.573986
+cpu utilized is0.17481%
+Run77
+
+interval4.60492-5.42657queue size0
+interval5.42657-1.66121queue size1
+interval1.66121-1.4029queue size2
+interval1.4029-4.79095queue size3
+interval4.79095-0.624671queue size4
+interval0.624671-0.529088queue size5
+interval0.529088-2.72581queue size6
+interval2.72581-9.59516queue size7
+the average number of customers5.81453
+cpu utilized is0.580261%
+Run78
+
+simulation not possible
+interval7.23306-4.46595queue size0
+interval4.46595-6.0827queue size1
+interval6.0827-3.68177queue size0
+interval8.19083-9.287queue size0
+interval9.287-6.10746queue size1
+interval6.10746-5.09107queue size2
+interval5.09107-6.61273queue size3
+interval6.61273-2.61088queue size4
+interval2.61088-9.95595queue size5
+the average number of customers2.52178
+cpu utilized is0.207694%
+Run79
+
+simulation not possible
+interval9.72168-3.85354queue size0
+interval5.35886-2.45064queue size0
+interval2.45064-1.79769queue size1
+interval1.79769-7.02008queue size2
+interval7.02008-9.31444queue size3
+the average number of customers1.93894
+cpu utilized is0.222391%
+Run80
+
+simulation not possible
+interval7.23991-2.51709queue size0
+interval4.52961-8.10122queue size0
+interval8.10122-3.23009queue size1
+interval3.23009-8.99556queue size2
+interval8.99556-6.29205queue size3
+interval6.29205-9.12982queue size4
+the average number of customers1.15121
+cpu utilized is0.0142568%
+Run81
+
+simulation not possible
+interval7.46582-2.8116queue size0
+interval2.8116-3.76265queue size1
+interval3.76265-5.63615queue size0
+the average number of customers0.110587
+cpu utilized is0.212752%
+Run82
+
+simulation not possible
+interval6.55389-2.0705queue size0
+interval2.14898-0.300978queue size0
+interval0.300978-0.936515queue size1
+interval0.936515-1.46342queue size2
+interval1.46342-6.1949queue size3
+interval6.1949-0.690544queue size2
+interval0.690544-1.06606queue size1
+interval1.06606-2.48695queue size0
+the average number of customers0.610534
+cpu utilized is0.482025%
+Run83
+
+interval3.20764-4.65791queue size0
+interval6.16908-3.87007queue size0
+interval3.87007-2.33746queue size1
+interval2.33746-3.88299queue size2
+interval3.88299-1.33589queue size3
+interval1.33589-5.14906queue size4
+interval5.14906-1.55283queue size5
+interval1.55283-7.55304queue size6
+the average number of customers3.16162
+cpu utilized is0.329563%
+Run84
+
+interval2.70701-0.571349queue size0
+interval0.571349-0.503102queue size1
+interval0.503102-7.99351queue size2
+interval7.99351-1.87975queue size1
+interval1.87975-1.06945queue size0
+interval3.22758-7.05699queue size0
+interval7.05699-0.41633queue size1
+interval0.41633-3.52856queue size2
+interval3.52856-9.34021queue size3
+the average number of customers3.00204
+cpu utilized is0.520356%
+Run85
+
+interval3.13995-2.2821queue size0
+interval2.2821-0.0307514queue size1
+interval0.0307514-4.20601queue size2
+interval4.20601-4.76905queue size3
+interval4.76905-3.23839queue size4
+interval3.23839-0.375096queue size5
+interval0.375096-5.57585queue size6
+interval5.57585-4.25808queue size5
+interval4.25808-8.63912queue size4
+interval8.63912-9.97501queue size5
+the average number of customers4.20563
+cpu utilized is0.794774%
+Run86
+
+interval4.63292-5.72965queue size0
+the average number of customers0
+cpu utilized is0.127526%
+Run87
+
+interval1.6343-5.31102queue size0
+the average number of customers0
+cpu utilized is0.427525%
+Run88
+
+interval6.21092-7.5878queue size0
+the average number of customers0
+cpu utilized is0.160102%
+Run89
+
+simulation not possible
+interval3.70234-0.874851queue size0
+interval1.09432-1.51906queue size0
+interval1.51906-5.23998queue size1
+interval5.23998-7.05998queue size0
+the average number of customers0.432666
+cpu utilized is0.364904%
+Run90
+
+interval2.37099-5.65108queue size0
+interval5.65108-3.27175queue size1
+interval3.27175-6.4185queue size2
+interval6.4185-3.75641queue size1
+interval3.75641-0.469277queue size0
+the average number of customers0.14559
+cpu utilized is0.221129%
+Run91
+
+simulation not possible
+interval8.05708-2.92674queue size0
+interval2.92674-2.23949queue size1
+interval2.23949-5.78435queue size2
+interval5.78435-0.805008queue size3
+interval0.805008-5.79014queue size4
+interval5.79014-4.86859queue size3
+interval4.86859-5.47743queue size2
+interval5.47743-3.66419queue size1
+interval3.66419-0.823561queue size0
+the average number of customers0.935437
+cpu utilized is0.841107%
+Run92
+
+interval6.35228-8.31163queue size0
+the average number of customers0
+cpu utilized is0.227831%
+Run93
+
+interval0.713766-0.0693327queue size0
+interval0.0693327-4.8635queue size1
+interval4.8635-2.34604queue size2
+interval2.34604-4.33613queue size3
+interval4.33613-2.92058queue size4
+interval2.92058-5.27277queue size5
+interval5.27277-6.57562queue size6
+interval6.57562-8.70493queue size7
+the average number of customers4.0175
+cpu utilized is0.929205%
+Run94
+
+simulation not possible
+interval8.30759-0.452188queue size0
+interval0.452188-3.87928queue size1
+interval3.87928-1.97178queue size2
+interval1.97178-1.27575queue size3
+interval1.27575-0.231557queue size4
+interval0.231557-0.875949queue size5
+interval0.875949-7.46228queue size6
+interval7.46228-2.41679queue size5
+interval2.41679-9.15929queue size4
+interval9.15929-9.41381queue size5
+the average number of customers4.54678
+cpu utilized is0.128631%
+Run95
+
+simulation not possible
+interval7.72544-2.28871queue size0
+interval2.28871-1.52466queue size1
+interval1.52466-4.03837queue size2
+interval4.03837-4.58446queue size3
+interval4.58446-6.68293queue size2
+interval6.68293-2.23842queue size3
+interval2.23842-4.1077queue size4
+interval4.1077-1.54644queue size5
+interval1.54644-8.44383queue size6
+the average number of customers3.81631
+cpu utilized is0.0835339%
+Run96
+
+interval3.17195-5.93502queue size0
+interval5.93502-7.5369queue size1
+interval7.5369-7.81627queue size2
+interval7.81627-0.483488queue size1
+interval0.483488-8.4477queue size0
+interval4.33687-5.84449queue size0
+interval5.84449-9.20774queue size1
+interval9.20774-8.21614queue size2
+interval8.21614-9.64277queue size3
+the average number of customers0.056719
+cpu utilized is1.23043%
+Run97
+
+simulation not possible
+interval5.90998-0.820395queue size0
+interval1.10901-5.22569queue size0
+the average number of customers0
+cpu utilized is0.113129%
+Run98
+
+simulation not possible
+interval6.68594-3.16664queue size0
+interval3.37193-1.23914queue size0
+interval1.23914-6.54317queue size1
+interval6.54317-6.81506queue size2
+interval6.81506-1.77278queue size1
+interval1.77278-2.37438queue size0
+the average number of customers0.0936656
+cpu utilized is0.525215%
+Run99
+
+simulation not possible
+interval9.58905-2.85787queue size0
+interval2.85787-3.4789queue size1
+interval3.4789-5.64293queue size2
+interval5.64293-7.72869queue size1
+interval7.72869-8.28128queue size0
+interval8.28128-2.50064queue size1
+interval2.50064-8.33926queue size2
+interval8.33926-4.18569queue size1
+interval4.18569-7.59175queue size0
+the average number of customers1.02068
+cpu utilized is0.232245%
+Run100
+
+simulation not possible
+interval9.15965-2.92235queue size0
+the average number of customers0
+cpu utilized is0.725268%
+
+
