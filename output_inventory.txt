@@ -1,0 +1,702 @@
+Run1
+shortage cost =  8
+total cost =  220.5
+holding cost =  40.5
+ordering cost =  172
+Positive area =  1215
+Negetive area =  48
+Run2
+shortage cost =  -0
+total cost =  72.6
+holding cost =  72.6
+ordering cost =  0
+Positive area =  2178
+Negetive area =  -0
+Run3
+shortage cost =  18.8333
+total cost =  246.167
+holding cost =  66.3333
+ordering cost =  161
+Positive area =  1990
+Negetive area =  113
+Run4
+shortage cost =  96
+total cost =  354
+holding cost =  8
+ordering cost =  250
+Positive area =  240
+Negetive area =  576
+Run5
+shortage cost =  -0
+total cost =  98.1333
+holding cost =  98.1333
+ordering cost =  0
+Positive area =  2944
+Negetive area =  -0
+Run6
+shortage cost =  -0
+total cost =  204.733
+holding cost =  38.7333
+ordering cost =  166
+Positive area =  1162
+Negetive area =  -0
+Run7
+shortage cost =  -0
+total cost =  193.933
+holding cost =  48.9333
+ordering cost =  145
+Positive area =  1468
+Negetive area =  -0
+Run8
+shortage cost =  -0
+total cost =  198.2
+holding cost =  47.2
+ordering cost =  151
+Positive area =  1416
+Negetive area =  -0
+Run9
+shortage cost =  15
+total cost =  200.233
+holding cost =  25.2333
+ordering cost =  160
+Positive area =  757
+Negetive area =  90
+Run10
+shortage cost =  -0
+total cost =  135.1
+holding cost =  135.1
+ordering cost =  0
+Positive area =  4053
+Negetive area =  -0
+Run11
+shortage cost =  30.8333
+total cost =  262.5
+holding cost =  23.6667
+ordering cost =  208
+Positive area =  710
+Negetive area =  185
+Run12
+shortage cost =  -0
+total cost =  107.767
+holding cost =  69.7667
+ordering cost =  38
+Positive area =  2093
+Negetive area =  -0
+Run13
+shortage cost =  -0
+total cost =  232.6
+holding cost =  39.6
+ordering cost =  193
+Positive area =  1188
+Negetive area =  -0
+Run14
+shortage cost =  96
+total cost =  346.167
+holding cost =  9.16667
+ordering cost =  241
+Positive area =  275
+Negetive area =  576
+Run15
+shortage cost =  -0
+total cost =  214.533
+holding cost =  66.5333
+ordering cost =  148
+Positive area =  1996
+Negetive area =  -0
+Run16
+shortage cost =  -0
+total cost =  152.167
+holding cost =  75.1667
+ordering cost =  77
+Positive area =  2255
+Negetive area =  -0
+Run17
+shortage cost =  37.8333
+total cost =  246.333
+holding cost =  9.5
+ordering cost =  199
+Positive area =  285
+Negetive area =  227
+Run18
+shortage cost =  5
+total cost =  291.167
+holding cost =  36.1667
+ordering cost =  250
+Positive area =  1085
+Negetive area =  30
+Run19
+shortage cost =  68.3333
+total cost =  340.333
+holding cost =  16
+ordering cost =  256
+Positive area =  480
+Negetive area =  410
+Run20
+shortage cost =  1.33333
+total cost =  278.5
+holding cost =  36.1667
+ordering cost =  241
+Positive area =  1085
+Negetive area =  8
+Run21
+shortage cost =  28.5
+total cost =  187.667
+holding cost =  34.1667
+ordering cost =  125
+Positive area =  1025
+Negetive area =  171
+Run22
+shortage cost =  6.33333
+total cost =  304.5
+holding cost =  30.1667
+ordering cost =  268
+Positive area =  905
+Negetive area =  38
+Run23
+shortage cost =  164
+total cost =  506.5
+holding cost =  8.5
+ordering cost =  334
+Positive area =  255
+Negetive area =  984
+Run24
+shortage cost =  -0
+total cost =  156.667
+holding cost =  109.667
+ordering cost =  47
+Positive area =  3290
+Negetive area =  -0
+Run25
+shortage cost =  -0
+total cost =  88.2
+holding cost =  88.2
+ordering cost =  0
+Positive area =  2646
+Negetive area =  -0
+Run26
+shortage cost =  148.333
+total cost =  456
+holding cost =  9.66667
+ordering cost =  298
+Positive area =  290
+Negetive area =  890
+Run27
+shortage cost =  -0
+total cost =  219.967
+holding cost =  41.9667
+ordering cost =  178
+Positive area =  1259
+Negetive area =  -0
+Run28
+shortage cost =  -0
+total cost =  140.9
+holding cost =  99.9
+ordering cost =  41
+Positive area =  2997
+Negetive area =  -0
+Run29
+shortage cost =  -0
+total cost =  129.667
+holding cost =  37.6667
+ordering cost =  92
+Positive area =  1130
+Negetive area =  -0
+Run30
+shortage cost =  25.6667
+total cost =  245.333
+holding cost =  17.6667
+ordering cost =  202
+Positive area =  530
+Negetive area =  154
+Run31
+shortage cost =  20
+total cost =  243.533
+holding cost =  33.5333
+ordering cost =  190
+Positive area =  1006
+Negetive area =  120
+Run32
+shortage cost =  90
+total cost =  300.567
+holding cost =  17.5667
+ordering cost =  193
+Positive area =  527
+Negetive area =  540
+Run33
+shortage cost =  55.1667
+total cost =  266.833
+holding cost =  26.6667
+ordering cost =  185
+Positive area =  800
+Negetive area =  331
+Run34
+shortage cost =  64.6667
+total cost =  413.5
+holding cost =  32.8333
+ordering cost =  316
+Positive area =  985
+Negetive area =  388
+Run35
+shortage cost =  2.33333
+total cost =  282.333
+holding cost =  30
+ordering cost =  250
+Positive area =  900
+Negetive area =  14
+Run36
+shortage cost =  -0
+total cost =  70.4333
+holding cost =  70.4333
+ordering cost =  0
+Positive area =  2113
+Negetive area =  -0
+Run37
+shortage cost =  3.16667
+total cost =  280.167
+holding cost =  51
+ordering cost =  226
+Positive area =  1530
+Negetive area =  19
+Run38
+shortage cost =  83.8333
+total cost =  360.5
+holding cost =  14.6667
+ordering cost =  262
+Positive area =  440
+Negetive area =  503
+Run39
+shortage cost =  0.666667
+total cost =  147.833
+holding cost =  43.1667
+ordering cost =  104
+Positive area =  1295
+Negetive area =  4
+Run40
+shortage cost =  11
+total cost =  229.167
+holding cost =  63.1667
+ordering cost =  155
+Positive area =  1895
+Negetive area =  66
+Run41
+shortage cost =  13
+total cost =  300
+holding cost =  25
+ordering cost =  262
+Positive area =  750
+Negetive area =  78
+Run42
+shortage cost =  -0
+total cost =  135.933
+holding cost =  82.9333
+ordering cost =  53
+Positive area =  2488
+Negetive area =  -0
+Run43
+shortage cost =  5
+total cost =  218.867
+holding cost =  38.8667
+ordering cost =  175
+Positive area =  1166
+Negetive area =  30
+Run44
+shortage cost =  104.333
+total cost =  426.833
+holding cost =  9.5
+ordering cost =  313
+Positive area =  285
+Negetive area =  626
+Run45
+shortage cost =  -0
+total cost =  198.867
+holding cost =  29.8667
+ordering cost =  169
+Positive area =  896
+Negetive area =  -0
+Run46
+shortage cost =  50
+total cost =  309.2
+holding cost =  27.2
+ordering cost =  232
+Positive area =  816
+Negetive area =  300
+Run47
+shortage cost =  -0
+total cost =  152.233
+holding cost =  81.2333
+ordering cost =  71
+Positive area =  2437
+Negetive area =  -0
+Run48
+shortage cost =  46.8333
+total cost =  329
+holding cost =  29.1667
+ordering cost =  253
+Positive area =  875
+Negetive area =  281
+Run49
+shortage cost =  6.66667
+total cost =  206.833
+holding cost =  34.1667
+ordering cost =  166
+Positive area =  1025
+Negetive area =  40
+Run50
+shortage cost =  2
+total cost =  223.833
+holding cost =  63.8333
+ordering cost =  158
+Positive area =  1915
+Negetive area =  12
+Run51
+shortage cost =  -0
+total cost =  193.1
+holding cost =  57.1
+ordering cost =  136
+Positive area =  1713
+Negetive area =  -0
+Run52
+shortage cost =  77.3333
+total cost =  332.333
+holding cost =  17
+ordering cost =  238
+Positive area =  510
+Negetive area =  464
+Run53
+shortage cost =  -0
+total cost =  197.033
+holding cost =  25.0333
+ordering cost =  172
+Positive area =  751
+Negetive area =  -0
+Run54
+shortage cost =  12.5
+total cost =  275
+holding cost =  72.5
+ordering cost =  190
+Positive area =  2175
+Negetive area =  75
+Run55
+shortage cost =  -0
+total cost =  185.8
+holding cost =  34.8
+ordering cost =  151
+Positive area =  1044
+Negetive area =  -0
+Run56
+shortage cost =  7.5
+total cost =  167.633
+holding cost =  24.1333
+ordering cost =  136
+Positive area =  724
+Negetive area =  45
+Run57
+shortage cost =  5.83333
+total cost =  203.167
+holding cost =  19.3333
+ordering cost =  178
+Positive area =  580
+Negetive area =  35
+Run58
+shortage cost =  -0
+total cost =  127.233
+holding cost =  127.233
+ordering cost =  0
+Positive area =  3817
+Negetive area =  -0
+Run59
+shortage cost =  17.1667
+total cost =  266.167
+holding cost =  29
+ordering cost =  220
+Positive area =  870
+Negetive area =  103
+Run60
+shortage cost =  -0
+total cost =  140.233
+holding cost =  69.2333
+ordering cost =  71
+Positive area =  2077
+Negetive area =  -0
+Run61
+shortage cost =  105.333
+total cost =  294.833
+holding cost =  2.5
+ordering cost =  187
+Positive area =  75
+Negetive area =  632
+Run62
+shortage cost =  19.6667
+total cost =  235.333
+holding cost =  34.6667
+ordering cost =  181
+Positive area =  1040
+Negetive area =  118
+Run63
+shortage cost =  -0
+total cost =  91.9333
+holding cost =  91.9333
+ordering cost =  0
+Positive area =  2758
+Negetive area =  -0
+Run64
+shortage cost =  0.333333
+total cost =  115.5
+holding cost =  47.1667
+ordering cost =  68
+Positive area =  1415
+Negetive area =  2
+Run65
+shortage cost =  -0
+total cost =  124.467
+holding cost =  89.4667
+ordering cost =  35
+Positive area =  2684
+Negetive area =  -0
+Run66
+shortage cost =  133.667
+total cost =  500.667
+holding cost =  6
+ordering cost =  361
+Positive area =  180
+Negetive area =  802
+Run67
+shortage cost =  -0
+total cost =  170.5
+holding cost =  63.5
+ordering cost =  107
+Positive area =  1905
+Negetive area =  -0
+Run68
+shortage cost =  -0
+total cost =  146.667
+holding cost =  84.6667
+ordering cost =  62
+Positive area =  2540
+Negetive area =  -0
+Run69
+shortage cost =  -0
+total cost =  134
+holding cost =  134
+ordering cost =  0
+Positive area =  4020
+Negetive area =  -0
+Run70
+shortage cost =  67.5
+total cost =  327.067
+holding cost =  24.5667
+ordering cost =  235
+Positive area =  737
+Negetive area =  405
+Run71
+shortage cost =  20.1667
+total cost =  191.667
+holding cost =  46.5
+ordering cost =  125
+Positive area =  1395
+Negetive area =  121
+Run72
+shortage cost =  3.33333
+total cost =  264.9
+holding cost =  41.5667
+ordering cost =  220
+Positive area =  1247
+Negetive area =  20
+Run73
+shortage cost =  -0
+total cost =  174.367
+holding cost =  174.367
+ordering cost =  0
+Positive area =  5231
+Negetive area =  -0
+Run74
+shortage cost =  33.5
+total cost =  307
+holding cost =  20.5
+ordering cost =  253
+Positive area =  615
+Negetive area =  201
+Run75
+shortage cost =  14
+total cost =  308.167
+holding cost =  35.1667
+ordering cost =  259
+Positive area =  1055
+Negetive area =  84
+Run76
+shortage cost =  -0
+total cost =  66.1667
+holding cost =  66.1667
+ordering cost =  0
+Positive area =  1985
+Negetive area =  -0
+Run77
+shortage cost =  1.66667
+total cost =  263.367
+holding cost =  50.7
+ordering cost =  211
+Positive area =  1521
+Negetive area =  10
+Run78
+shortage cost =  17.3333
+total cost =  271.167
+holding cost =  27.8333
+ordering cost =  226
+Positive area =  835
+Negetive area =  104
+Run79
+shortage cost =  6
+total cost =  278.833
+holding cost =  31.8333
+ordering cost =  241
+Positive area =  955
+Negetive area =  36
+Run80
+shortage cost =  -0
+total cost =  93.0333
+holding cost =  49.0333
+ordering cost =  44
+Positive area =  1471
+Negetive area =  -0
+Run81
+shortage cost =  7
+total cost =  181.833
+holding cost =  61.8333
+ordering cost =  113
+Positive area =  1855
+Negetive area =  42
+Run82
+shortage cost =  94.1667
+total cost =  363.2
+holding cost =  13.0333
+ordering cost =  256
+Positive area =  391
+Negetive area =  565
+Run83
+shortage cost =  27.6667
+total cost =  250.167
+holding cost =  29.5
+ordering cost =  193
+Positive area =  885
+Negetive area =  166
+Run84
+shortage cost =  -0
+total cost =  181.967
+holding cost =  60.9667
+ordering cost =  121
+Positive area =  1829
+Negetive area =  -0
+Run85
+shortage cost =  154.5
+total cost =  452.5
+holding cost =  21
+ordering cost =  277
+Positive area =  630
+Negetive area =  927
+Run86
+shortage cost =  21.6667
+total cost =  180
+holding cost =  16.3333
+ordering cost =  142
+Positive area =  490
+Negetive area =  130
+Run87
+shortage cost =  0.833333
+total cost =  212.333
+holding cost =  74.5
+ordering cost =  137
+Positive area =  2235
+Negetive area =  5
+Run88
+shortage cost =  6
+total cost =  199.667
+holding cost =  33.6667
+ordering cost =  160
+Positive area =  1010
+Negetive area =  36
+Run89
+shortage cost =  117.167
+total cost =  363.5
+holding cost =  11.3333
+ordering cost =  235
+Positive area =  340
+Negetive area =  703
+Run90
+shortage cost =  -0
+total cost =  97.0333
+holding cost =  97.0333
+ordering cost =  0
+Positive area =  2911
+Negetive area =  -0
+Run91
+shortage cost =  -0
+total cost =  139.933
+holding cost =  139.933
+ordering cost =  0
+Positive area =  4198
+Negetive area =  -0
+Run92
+shortage cost =  13.1667
+total cost =  257.333
+holding cost =  65.1667
+ordering cost =  179
+Positive area =  1955
+Negetive area =  79
+Run93
+shortage cost =  4.16667
+total cost =  214.033
+holding cost =  34.8667
+ordering cost =  175
+Positive area =  1046
+Negetive area =  25
+Run94
+shortage cost =  13.5
+total cost =  306.167
+holding cost =  39.6667
+ordering cost =  253
+Positive area =  1190
+Negetive area =  81
+Run95
+shortage cost =  -0
+total cost =  125.933
+holding cost =  72.9333
+ordering cost =  53
+Positive area =  2188
+Negetive area =  -0
+Run96
+shortage cost =  -0
+total cost =  225.733
+holding cost =  59.7333
+ordering cost =  166
+Positive area =  1792
+Negetive area =  -0
+Run97
+shortage cost =  -0
+total cost =  81.4667
+holding cost =  81.4667
+ordering cost =  0
+Positive area =  2444
+Negetive area =  -0
+Run98
+shortage cost =  34.1667
+total cost =  269.033
+holding cost =  26.8667
+ordering cost =  208
+Positive area =  806
+Negetive area =  205
+Run99
+shortage cost =  -0
+total cost =  170.7
+holding cost =  170.7
+ordering cost =  0
+Positive area =  5121
+Negetive area =  -0
+Run100
+shortage cost =  0.166667
+total cost =  169.333
+holding cost =  74.1667
+ordering cost =  95
+Positive area =  2225
+Negetive area =  1
+
+
